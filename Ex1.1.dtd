@@ -1,0 +1,32 @@
+<!ELEMENT mondial (country+) >
+
+<!ELEMENT country (continent+, province+, airport*) >
+<!ATTLIST country idcountry ID #REQUIRED
+                  nom CDATA #REQUIRED>
+
+<!ELEMENT province ( (mountain|desert)*, island* ) >
+<!ATTLIST province name CDATA #REQUIRED 
+                      capital CDATA #REQUIRED >
+
+<!ELEMENT mountain EMPTY >
+<!ATTLIST mountain name CDATA #REQUIRED 
+                   height CDATA #REQUIRED >
+
+<!ELEMENT desert EMPTY >
+<!ATTLIST desert name CDATA #REQUIRED 
+                 area CDATA #IMPLIED >
+
+<!ELEMENT island (coordinates?) >
+<!ATTLIST island name CDATA #REQUIRED >
+
+<!ELEMENT coordinates EMPTY >
+<!ATTLIST coordinates latitude CDATA #REQUIRED
+                      longitude CDATA #REQUIRED>
+
+<!ELEMENT continent EMPTY >
+<!ATTLIST continent name CDATA #REQUIRED 
+                    percent CDATA #REQUIRED >
+
+<!ELEMENT airport EMPTY>
+<!ATTLIST airport name CDATA #REQUIRED 
+ nearCity CDATA #IMPLIED >

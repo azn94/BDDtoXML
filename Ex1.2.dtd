@@ -1,0 +1,20 @@
+<!ELEMENT mondial (organization+) >
+<!ELEMENT organization (country+, headquarter) >
+
+<!ELEMENT country (language*, borders) >
+<!ATTLIST country code CDATA #IMPLIED
+                  name CDATA #REQUIRED 
+                  population CDATA #REQUIRED > 
+
+<!ELEMENT language EMPTY >
+<!ATTLIST language language CDATA #REQUIRED
+                   percent  CDATA #REQUIRED >
+
+<!ELEMENT borders (border*) >
+
+<!ELEMENT border EMPTY>
+<!ATTLIST border countryCode CDATA #REQUIRED
+                 length CDATA #REQUIRED >
+ 
+<!ELEMENT headquarter EMPTY>
+<!ATTLIST headquarter name CDATA #REQUIRED>

@@ -1,0 +1,3713 @@
+<ex2>
+  <country name="French Polynesia" continent="Australia/Oceania" blength="0">
+    <geo>
+      <mountain name="Mont Orohena" height="2241"/>
+      <island name="Tahiti">
+        <coordinates latitude="-17.32" longitude="-149.34"/>
+      </island>
+    </geo>
+    <peak height="2241"/>
+    <contCountries/>
+  </country>
+  <country name="Guam" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Guam">
+        <coordinates latitude="13.4" longitude="144.7"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Kiribati" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Tarawa">
+        <coordinates latitude="1.4" longitude="173"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Marshall Islands" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Majuro">
+        <coordinates latitude="7.1" longitude="171.4"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Micronesia" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Ponape">
+        <coordinates latitude="6.85" longitude="158.2"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Nauru" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Nauru">
+        <coordinates latitude="-1" longitude="167"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="New Caledonia" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Grande Terre">
+        <coordinates latitude="-22.16" longitude="166.27"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="New Zealand" continent="Australia/Oceania" blength="0">
+    <geo>
+      <mountain name="Mt. Cook" height="3754"/>
+      <mountain name="Ruapehu" height="2797"/>
+      <island name="Te Ika-a-Maui (North Island)">
+        <coordinates latitude="-38.4" longitude="175.7"/>
+      </island>
+      <island name="Te Waka-a-Maui (South Island)">
+        <coordinates latitude="-44" longitude="170.4"/>
+      </island>
+    </geo>
+    <peak height="3754"/>
+    <contCountries/>
+  </country>
+  <country name="Niue" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Niue">
+        <coordinates latitude="-19.01" longitude="-169.55"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Norfolk Island" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Norfolk Island">
+        <coordinates latitude="-29" longitude="168"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Northern Mariana Islands" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Rota">
+        <coordinates latitude="15.15" longitude="145.2"/>
+      </island>
+      <island name="Saipan">
+        <coordinates latitude="15.2" longitude="145.75"/>
+      </island>
+      <island name="Tinian">
+        <coordinates latitude="15" longitude="145.6"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Palau" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Babelthuap">
+        <coordinates latitude="7.5" longitude="134.6"/>
+      </island>
+      <island name="Koror">
+        <coordinates latitude="7.3" longitude="134.5"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Pitcairn Islands" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Pitcairn">
+        <coordinates latitude="-25.04" longitude="-130.05"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Solomon Islands" continent="Australia/Oceania" blength="0">
+    <geo>
+      <mountain name="Popomanaseu" height="2335"/>
+      <island name="Guadalcanal">
+        <coordinates latitude="-9.6" longitude="160.2"/>
+      </island>
+    </geo>
+    <peak height="2335"/>
+    <contCountries/>
+  </country>
+  <country name="Tonga" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Tongatapu">
+        <coordinates latitude="-21.2" longitude="-175.15"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Tuvalu" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Fongafale">
+        <coordinates latitude="-8.5" longitude="179.1"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Vanuatu" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Efate">
+        <coordinates latitude="-17.8" longitude="168.4"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Wallis and Futuna" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Futuna">
+        <coordinates latitude="-14.3" longitude="-178.1"/>
+      </island>
+      <island name="Uvea">
+        <coordinates latitude="-13.16" longitude="-176.2"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Samoa" continent="Australia/Oceania" blength="0">
+    <geo>
+      <mountain name="Silisili" height="1858"/>
+      <island name="Savaii">
+        <coordinates latitude="-13.6" longitude="-172.4"/>
+      </island>
+      <island name="Upolu">
+        <coordinates latitude="-13.9" longitude="-171.75"/>
+      </island>
+    </geo>
+    <peak height="1858"/>
+    <contCountries/>
+  </country>
+  <country name="Argentina" continent="America" blength="9665">
+    <geo>
+      <mountain name="Monte Pissis" height="6795"/>
+      <mountain name="Aconcagua" height="6962"/>
+      <mountain name="Tupungato" height="6550"/>
+      <mountain name="Llullaillaco" height="6739"/>
+      <mountain name="Monte Pissis" height="6795"/>
+      <mountain name="Ojos del Salado" height="6893"/>
+    </geo>
+    <peak height="6962"/>
+    <contCountries>
+      <border countryCode="BOL" length="832"/>
+      <border countryCode="BR" length="1224"/>
+      <border countryCode="PY" length="1880"/>
+      <border countryCode="RCH" length="5150"/>
+      <border countryCode="ROU" length="579"/>
+    </contCountries>
+  </country>
+  <country name="Bolivia" continent="America" blength="6743">
+    <geo>
+      <mountain name="Illampu" height="6368"/>
+      <mountain name="Illimani" height="6439"/>
+      <mountain name="Licancabur" height="5920"/>
+      <mountain name="Sajama" height="6542"/>
+    </geo>
+    <peak height="6542"/>
+    <contCountries>
+      <border countryCode="RA" length="832"/>
+      <border countryCode="BR" length="3400"/>
+      <border countryCode="RCH" length="861"/>
+      <border countryCode="PY" length="750"/>
+      <border countryCode="PE" length="900"/>
+    </contCountries>
+  </country>
+  <country name="Brazil" continent="America" blength="14691">
+    <geo>
+      <mountain name="Pico de Agulhas Negras" height="2791"/>
+      <mountain name="Pico de Agulhas Negras" height="2791"/>
+    </geo>
+    <peak height="2791"/>
+    <contCountries>
+      <border countryCode="BOL" length="3400"/>
+      <border countryCode="CO" length="1643"/>
+      <border countryCode="RA" length="1224"/>
+      <border countryCode="PY" length="1290"/>
+      <border countryCode="ROU" length="985"/>
+      <border countryCode="PE" length="1560"/>
+      <border countryCode="FGU" length="673"/>
+      <border countryCode="GUY" length="1119"/>
+      <border countryCode="SME" length="597"/>
+      <border countryCode="YV" length="2200"/>
+    </contCountries>
+  </country>
+  <country name="Chile" continent="America" blength="6171">
+    <geo>
+      <mountain name="Licancabur" height="5920"/>
+      <mountain name="Llullaillaco" height="6739"/>
+      <mountain name="Ojos del Salado" height="6893"/>
+      <desert name="Atacama" area="181300"/>
+      <island name="Osterinsel">
+        <coordinates latitude="-27.1" longitude="-109.35"/>
+      </island>
+    </geo>
+    <peak height="6893"/>
+    <contCountries>
+      <border countryCode="RA" length="5150"/>
+      <border countryCode="BOL" length="861"/>
+      <border countryCode="PE" length="160"/>
+    </contCountries>
+  </country>
+  <country name="Paraguay" continent="America" blength="3920">
+    <geo/>
+    <contCountries>
+      <border countryCode="BOL" length="750"/>
+      <border countryCode="BR" length="1290"/>
+      <border countryCode="RA" length="1880"/>
+    </contCountries>
+  </country>
+  <country name="Uruguay" continent="America" blength="1564">
+    <geo/>
+    <contCountries>
+      <border countryCode="RA" length="579"/>
+      <border countryCode="BR" length="985"/>
+    </contCountries>
+  </country>
+  <country name="Peru" continent="America" blength="6940">
+    <geo>
+      <mountain name="Alpamayo" height="5947"/>
+      <mountain name="Huascaran" height="6768"/>
+      <mountain name="Pico Rocarre" height="5187"/>
+      <mountain name="Ampato" height="6288"/>
+      <mountain name="Coropuna" height="6425"/>
+      <mountain name="Ausangate" height="6336"/>
+    </geo>
+    <peak height="6768"/>
+    <contCountries>
+      <border countryCode="CO" length="2900"/>
+      <border countryCode="BOL" length="900"/>
+      <border countryCode="BR" length="1560"/>
+      <border countryCode="EC" length="1420"/>
+      <border countryCode="RCH" length="160"/>
+    </contCountries>
+  </country>
+  <country name="French Guiana" continent="America" blength="1183">
+    <geo/>
+    <contCountries>
+      <border countryCode="BR" length="673"/>
+      <border countryCode="SME" length="510"/>
+    </contCountries>
+  </country>
+  <country name="Guyana" continent="America" blength="2462">
+    <geo/>
+    <contCountries>
+      <border countryCode="BR" length="1119"/>
+      <border countryCode="SME" length="600"/>
+      <border countryCode="YV" length="743"/>
+    </contCountries>
+  </country>
+  <country name="Suriname" continent="America" blength="1707">
+    <geo/>
+    <contCountries>
+      <border countryCode="BR" length="597"/>
+      <border countryCode="FGU" length="510"/>
+      <border countryCode="GUY" length="600"/>
+    </contCountries>
+  </country>
+  <country name="Venezuela" continent="America" blength="4993">
+    <geo>
+      <mountain name="Pico Bolivar" height="4981"/>
+    </geo>
+    <peak height="4981"/>
+    <contCountries>
+      <border countryCode="CO" length="2050"/>
+      <border countryCode="BR" length="2200"/>
+      <border countryCode="GUY" length="743"/>
+    </contCountries>
+  </country>
+  <country name="Ecuador" continent="America" blength="2010">
+    <geo>
+      <mountain name="Cayambe" height="5796"/>
+      <mountain name="Chimborazo" height="6287"/>
+      <mountain name="Cotopaxi" height="5897"/>
+      <island name="Isabela">
+        <coordinates latitude="-1" longitude="-91.3"/>
+      </island>
+    </geo>
+    <peak height="6287"/>
+    <contCountries>
+      <border countryCode="CO" length="590"/>
+      <border countryCode="PE" length="1420"/>
+    </contCountries>
+  </country>
+  <country name="Falkland Islands" continent="America" blength="0">
+    <geo>
+      <island name="East Falkland">
+        <coordinates latitude="-51.8" longitude="-58.8"/>
+      </island>
+      <island name="West Falkland">
+        <coordinates latitude="-51.8" longitude="-60.1"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Algeria" continent="Africa" blength="6343">
+    <geo>
+      <mountain name="Tahat" height="3003"/>
+      <desert name="Azaouad" area="80000"/>
+      <desert name="Erg Chech" area="10000"/>
+      <desert name="Erg Igidi" area="150000"/>
+      <desert name="Erg Isaouane" area="80000"/>
+      <desert name="Grand Erg Est" area="150000"/>
+      <desert name="Grand Erg Ouest" area="200000"/>
+      <desert name="Hamada du Draa" area="35000"/>
+      <desert name="Tanezrouft" area="160000"/>
+    </geo>
+    <peak height="3003"/>
+    <contCountries>
+      <border countryCode="LAR" length="982"/>
+      <border countryCode="RMM" length="1376"/>
+      <border countryCode="RIM" length="463"/>
+      <border countryCode="MA" length="1559"/>
+      <border countryCode="RN" length="956"/>
+      <border countryCode="TN" length="965"/>
+      <border countryCode="WSA" length="42"/>
+    </contCountries>
+  </country>
+  <country name="Libya" continent="Africa" blength="4383">
+    <geo>
+      <desert name="Erg Rebiana" area="200000"/>
+      <desert name="Fesan" area="300000"/>
+      <desert name="Hamada al-Hamra" area="84000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="ET" length="1150"/>
+      <border countryCode="DZ" length="982"/>
+      <border countryCode="RN" length="354"/>
+      <border countryCode="TN" length="459"/>
+      <border countryCode="TCH" length="1055"/>
+      <border countryCode="SUD" length="383"/>
+    </contCountries>
+  </country>
+  <country name="Mali" continent="Africa" blength="7243">
+    <geo>
+      <desert name="Azaouad" area="80000"/>
+      <desert name="Erg Chech" area="10000"/>
+      <desert name="Erg Igidi" area="150000"/>
+      <desert name="Tanezrouft" area="160000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="RIM" length="2237"/>
+      <border countryCode="BF" length="1000"/>
+      <border countryCode="CI" length="532"/>
+      <border countryCode="RG" length="858"/>
+      <border countryCode="DZ" length="1376"/>
+      <border countryCode="RN" length="821"/>
+      <border countryCode="SN" length="419"/>
+    </contCountries>
+  </country>
+  <country name="Mauritania" continent="Africa" blength="5074">
+    <geo>
+      <desert name="Erg Igidi" area="150000"/>
+      <desert name="Erg Maqteir" area="40000"/>
+      <desert name="Erg Ouarane" area="80000"/>
+      <desert name="Trarza" area="50000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="DZ" length="463"/>
+      <border countryCode="RMM" length="2237"/>
+      <border countryCode="WSA" length="1561"/>
+      <border countryCode="SN" length="813"/>
+    </contCountries>
+  </country>
+  <country name="Morocco" continent="Africa" blength="2002">
+    <geo>
+      <mountain name="Djebel Aures" height="2456"/>
+      <mountain name="Tubkhal" height="4165"/>
+      <desert name="Hamada du Draa" area="35000"/>
+    </geo>
+    <peak height="4165"/>
+    <contCountries>
+      <border countryCode="DZ" length="1559"/>
+      <border countryCode="WSA" length="443"/>
+    </contCountries>
+  </country>
+  <country name="Niger" continent="Africa" blength="5697">
+    <geo>
+      <mountain name="Mont Greboun" height="1944"/>
+      <mountain name="Tamgak" height="1800"/>
+      <desert name="Azaouad" area="80000"/>
+      <desert name="Talak" area="100000"/>
+      <desert name="Tenere" area="600000"/>
+    </geo>
+    <peak height="1944"/>
+    <contCountries>
+      <border countryCode="LAR" length="354"/>
+      <border countryCode="RMM" length="821"/>
+      <border countryCode="BEN" length="266"/>
+      <border countryCode="BF" length="628"/>
+      <border countryCode="DZ" length="956"/>
+      <border countryCode="WAN" length="1497"/>
+      <border countryCode="TCH" length="1175"/>
+    </contCountries>
+  </country>
+  <country name="Tunisia" continent="Africa" blength="1424">
+    <geo>
+      <desert name="Grand Erg Est" area="150000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="LAR" length="459"/>
+      <border countryCode="DZ" length="965"/>
+    </contCountries>
+  </country>
+  <country name="Western Sahara" continent="Africa" blength="2046">
+    <geo>
+      <desert name="Saguia el-Hamra" area="25000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="RIM" length="1561"/>
+      <border countryCode="MA" length="443"/>
+      <border countryCode="DZ" length="42"/>
+    </contCountries>
+  </country>
+  <country name="Angola" continent="Africa" blength="5198">
+    <geo>
+      <desert name="Kalahari" area="1200000"/>
+      <desert name="Kalahari" area="1200000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="RCB" length="201"/>
+      <border countryCode="NAM" length="1376"/>
+      <border countryCode="ZRE" length="2511"/>
+      <border countryCode="Z" length="1110"/>
+    </contCountries>
+  </country>
+  <country name="Congo" continent="Africa" blength="5504">
+    <geo/>
+    <contCountries>
+      <border countryCode="ANG" length="201"/>
+      <border countryCode="CAM" length="523"/>
+      <border countryCode="RCA" length="467"/>
+      <border countryCode="G" length="1903"/>
+      <border countryCode="ZRE" length="2410"/>
+    </contCountries>
+  </country>
+  <country name="Namibia" continent="Africa" blength="3824">
+    <geo>
+      <desert name="Kalahari" area="1200000"/>
+      <desert name="Namib" area="95000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="ANG" length="1376"/>
+      <border countryCode="Z" length="233"/>
+      <border countryCode="RB" length="1360"/>
+      <border countryCode="RSA" length="855"/>
+    </contCountries>
+  </country>
+  <country name="Zaire" continent="Africa" blength="10730">
+    <geo>
+      <mountain name="Karisimbi" height="4507"/>
+      <mountain name="Ruwenzori" height="5109"/>
+    </geo>
+    <peak height="5109"/>
+    <contCountries>
+      <border countryCode="ANG" length="2511"/>
+      <border countryCode="RCB" length="2410"/>
+      <border countryCode="Z" length="1930"/>
+      <border countryCode="BI" length="233"/>
+      <border countryCode="RWA" length="217"/>
+      <border countryCode="EAT" length="459"/>
+      <border countryCode="RCA" length="1577"/>
+      <border countryCode="SUD" length="628"/>
+      <border countryCode="EAU" length="765"/>
+    </contCountries>
+  </country>
+  <country name="Zambia" continent="Africa" blength="5664">
+    <geo>
+      <desert name="Kalahari" area="1200000"/>
+      <desert name="Kalahari" area="1200000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="ANG" length="1110"/>
+      <border countryCode="NAM" length="233"/>
+      <border countryCode="EAT" length="338"/>
+      <border countryCode="MW" length="837"/>
+      <border countryCode="MOC" length="419"/>
+      <border countryCode="ZRE" length="1930"/>
+      <border countryCode="ZW" length="797"/>
+    </contCountries>
+  </country>
+  <country name="Benin" continent="Africa" blength="1989">
+    <geo/>
+    <contCountries>
+      <border countryCode="RN" length="266"/>
+      <border countryCode="BF" length="306"/>
+      <border countryCode="WAN" length="773"/>
+      <border countryCode="RT" length="644"/>
+    </contCountries>
+  </country>
+  <country name="Burkina Faso" continent="Africa" blength="3192">
+    <geo/>
+    <contCountries>
+      <border countryCode="BEN" length="306"/>
+      <border countryCode="RMM" length="1000"/>
+      <border countryCode="RN" length="628"/>
+      <border countryCode="RT" length="126"/>
+      <border countryCode="CI" length="584"/>
+      <border countryCode="GH" length="548"/>
+    </contCountries>
+  </country>
+  <country name="Nigeria" continent="Africa" blength="4047">
+    <geo/>
+    <contCountries>
+      <border countryCode="RN" length="1497"/>
+      <border countryCode="BEN" length="773"/>
+      <border countryCode="CAM" length="1690"/>
+      <border countryCode="TCH" length="87"/>
+    </contCountries>
+  </country>
+  <country name="Togo" continent="Africa" blength="1647">
+    <geo/>
+    <contCountries>
+      <border countryCode="BEN" length="644"/>
+      <border countryCode="BF" length="126"/>
+      <border countryCode="GH" length="877"/>
+    </contCountries>
+  </country>
+  <country name="Botswana" continent="Africa" blength="4013">
+    <geo>
+      <desert name="Kalahari" area="1200000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="NAM" length="1360"/>
+      <border countryCode="RSA" length="1840"/>
+      <border countryCode="ZW" length="813"/>
+    </contCountries>
+  </country>
+  <country name="South Africa" continent="Africa" blength="4750">
+    <geo>
+      <mountain name="Cathkin Peak" height="3181"/>
+      <desert name="Kalahari" area="1200000"/>
+    </geo>
+    <peak height="3181"/>
+    <contCountries>
+      <border countryCode="NAM" length="855"/>
+      <border countryCode="RB" length="1840"/>
+      <border countryCode="LS" length="909"/>
+      <border countryCode="MOC" length="491"/>
+      <border countryCode="ZW" length="225"/>
+      <border countryCode="SD" length="430"/>
+    </contCountries>
+  </country>
+  <country name="Zimbabwe" continent="Africa" blength="3066">
+    <geo/>
+    <contCountries>
+      <border countryCode="Z" length="797"/>
+      <border countryCode="RB" length="813"/>
+      <border countryCode="RSA" length="225"/>
+      <border countryCode="MOC" length="1231"/>
+    </contCountries>
+  </country>
+  <country name="Cote dIvoire" continent="Africa" blength="3110">
+    <geo/>
+    <contCountries>
+      <border countryCode="BF" length="584"/>
+      <border countryCode="RMM" length="532"/>
+      <border countryCode="GH" length="668"/>
+      <border countryCode="RG" length="610"/>
+      <border countryCode="LB" length="716"/>
+    </contCountries>
+  </country>
+  <country name="Ghana" continent="Africa" blength="2093">
+    <geo/>
+    <contCountries>
+      <border countryCode="BF" length="548"/>
+      <border countryCode="CI" length="668"/>
+      <border countryCode="RT" length="877"/>
+    </contCountries>
+  </country>
+  <country name="Burundi" continent="Africa" blength="974">
+    <geo/>
+    <contCountries>
+      <border countryCode="ZRE" length="233"/>
+      <border countryCode="RWA" length="290"/>
+      <border countryCode="EAT" length="451"/>
+    </contCountries>
+  </country>
+  <country name="Rwanda" continent="Africa" blength="893">
+    <geo>
+      <mountain name="Karisimbi" height="4507"/>
+    </geo>
+    <peak height="4507"/>
+    <contCountries>
+      <border countryCode="BI" length="290"/>
+      <border countryCode="EAT" length="217"/>
+      <border countryCode="EAU" length="169"/>
+      <border countryCode="ZRE" length="217"/>
+    </contCountries>
+  </country>
+  <country name="Tanzania" continent="Africa" blength="3861">
+    <geo>
+      <mountain name="Meru" height="4567"/>
+      <mountain name="Kilimanjaro" height="5895"/>
+      <mountain name="Mawenzi" height="5148"/>
+      <island name="Pemba">
+        <coordinates latitude="-5.2" longitude="39.7"/>
+      </island>
+      <island name="Sansibar">
+        <coordinates latitude="-6.1" longitude="39.3"/>
+      </island>
+    </geo>
+    <peak height="5895"/>
+    <contCountries>
+      <border countryCode="BI" length="451"/>
+      <border countryCode="EAK" length="769"/>
+      <border countryCode="ZRE" length="459"/>
+      <border countryCode="Z" length="338"/>
+      <border countryCode="RWA" length="217"/>
+      <border countryCode="EAU" length="396"/>
+      <border countryCode="MW" length="475"/>
+      <border countryCode="MOC" length="756"/>
+    </contCountries>
+  </country>
+  <country name="Cameroon" continent="Africa" blength="4591">
+    <geo>
+      <mountain name="Fako" height="4095"/>
+    </geo>
+    <peak height="4095"/>
+    <contCountries>
+      <border countryCode="RCB" length="523"/>
+      <border countryCode="WAN" length="1690"/>
+      <border countryCode="RCA" length="797"/>
+      <border countryCode="TCH" length="1094"/>
+      <border countryCode="GQ" length="189"/>
+      <border countryCode="G" length="298"/>
+    </contCountries>
+  </country>
+  <country name="Central African Republic" continent="Africa" blength="5203">
+    <geo/>
+    <contCountries>
+      <border countryCode="CAM" length="797"/>
+      <border countryCode="RCB" length="467"/>
+      <border countryCode="ZRE" length="1577"/>
+      <border countryCode="TCH" length="1197"/>
+      <border countryCode="SUD" length="1165"/>
+    </contCountries>
+  </country>
+  <country name="Chad" continent="Africa" blength="5968">
+    <geo>
+      <mountain name="Emi Kussi" height="3415"/>
+      <desert name="Djourab" area="100000"/>
+      <desert name="Erdi Ennedi" area="180000"/>
+      <desert name="Tenere" area="600000"/>
+    </geo>
+    <peak height="3415"/>
+    <contCountries>
+      <border countryCode="LAR" length="1055"/>
+      <border countryCode="RN" length="1175"/>
+      <border countryCode="CAM" length="1094"/>
+      <border countryCode="RCA" length="1197"/>
+      <border countryCode="SUD" length="1360"/>
+      <border countryCode="WAN" length="87"/>
+    </contCountries>
+  </country>
+  <country name="Equatorial Guinea" continent="Africa" blength="539">
+    <geo>
+      <mountain name="Pico Basile" height="3011"/>
+      <island name="Bioko">
+        <coordinates latitude="3.5" longitude="8.7"/>
+      </island>
+    </geo>
+    <peak height="3011"/>
+    <contCountries>
+      <border countryCode="CAM" length="189"/>
+      <border countryCode="G" length="350"/>
+    </contCountries>
+  </country>
+  <country name="Gabon" continent="Africa" blength="2551">
+    <geo/>
+    <contCountries>
+      <border countryCode="CAM" length="298"/>
+      <border countryCode="RCB" length="1903"/>
+      <border countryCode="GQ" length="350"/>
+    </contCountries>
+  </country>
+  <country name="Cape Verde" continent="Africa" blength="0">
+    <geo>
+      <mountain name="Fogo" height="2829"/>
+      <island name="Fogo">
+        <coordinates latitude="17.95" longitude="-24.4"/>
+      </island>
+      <island name="Santiago">
+        <coordinates latitude="15.1" longitude="-23.6"/>
+      </island>
+    </geo>
+    <peak height="2829"/>
+    <contCountries/>
+  </country>
+  <country name="Sudan" continent="Africa" blength="7687">
+    <geo>
+      <mountain name="Jabal Marra" height="3088"/>
+      <desert name="Darfur" area="500000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Nubian Desert" area="50000"/>
+    </geo>
+    <peak height="3088"/>
+    <contCountries>
+      <border countryCode="ET" length="1273"/>
+      <border countryCode="LAR" length="383"/>
+      <border countryCode="RCA" length="1165"/>
+      <border countryCode="ER" length="605"/>
+      <border countryCode="ETH" length="1606"/>
+      <border countryCode="EAK" length="232"/>
+      <border countryCode="EAU" length="435"/>
+      <border countryCode="ZRE" length="628"/>
+      <border countryCode="TCH" length="1360"/>
+    </contCountries>
+  </country>
+  <country name="Comoros" continent="Africa" blength="0">
+    <geo>
+      <island name="Anjouan">
+        <coordinates latitude="-12.2" longitude="44.35"/>
+      </island>
+      <island name="Grand Comoro">
+        <coordinates latitude="-11.7" longitude="43.4"/>
+      </island>
+      <island name="Mohilla">
+        <coordinates latitude="-12.25" longitude="43.75"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Guinea" continent="Africa" blength="3399">
+    <geo/>
+    <contCountries>
+      <border countryCode="CI" length="610"/>
+      <border countryCode="LB" length="563"/>
+      <border countryCode="GNB" length="386"/>
+      <border countryCode="RMM" length="858"/>
+      <border countryCode="SN" length="330"/>
+      <border countryCode="WAL" length="652"/>
+    </contCountries>
+  </country>
+  <country name="Liberia" continent="Africa" blength="1585">
+    <geo/>
+    <contCountries>
+      <border countryCode="CI" length="716"/>
+      <border countryCode="RG" length="563"/>
+      <border countryCode="WAL" length="306"/>
+    </contCountries>
+  </country>
+  <country name="Djibouti" continent="Africa" blength="508">
+    <geo/>
+    <contCountries>
+      <border countryCode="ER" length="113"/>
+      <border countryCode="ETH" length="337"/>
+      <border countryCode="SP" length="58"/>
+    </contCountries>
+  </country>
+  <country name="Eritrea" continent="Africa" blength="1630">
+    <geo/>
+    <contCountries>
+      <border countryCode="DJI" length="113"/>
+      <border countryCode="SUD" length="605"/>
+      <border countryCode="ETH" length="912"/>
+    </contCountries>
+  </country>
+  <country name="Ethiopia" continent="Africa" blength="5311">
+    <geo>
+      <mountain name="Ras Daschan Terara" height="4533"/>
+    </geo>
+    <peak height="4533"/>
+    <contCountries>
+      <border countryCode="DJI" length="337"/>
+      <border countryCode="ER" length="912"/>
+      <border countryCode="EAK" length="830"/>
+      <border countryCode="SUD" length="1606"/>
+      <border countryCode="SP" length="1626"/>
+    </contCountries>
+  </country>
+  <country name="Somalia" continent="Africa" blength="2366">
+    <geo/>
+    <contCountries>
+      <border countryCode="DJI" length="58"/>
+      <border countryCode="ETH" length="1626"/>
+      <border countryCode="EAK" length="682"/>
+    </contCountries>
+  </country>
+  <country name="Kenya" continent="Africa" blength="3446">
+    <geo>
+      <mountain name="Kenia" height="5199"/>
+      <mountain name="Elgon" height="4321"/>
+    </geo>
+    <peak height="5199"/>
+    <contCountries>
+      <border countryCode="EAT" length="769"/>
+      <border countryCode="SUD" length="232"/>
+      <border countryCode="ETH" length="830"/>
+      <border countryCode="SP" length="682"/>
+      <border countryCode="EAU" length="933"/>
+    </contCountries>
+  </country>
+  <country name="Gambia" continent="Africa" blength="740">
+    <geo/>
+    <contCountries>
+      <border countryCode="SN" length="740"/>
+    </contCountries>
+  </country>
+  <country name="Senegal" continent="Africa" blength="2640">
+    <geo>
+      <desert name="Ferlo" area="70000"/>
+      <desert name="Ferlo" area="70000"/>
+      <desert name="Ferlo" area="70000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="RMM" length="419"/>
+      <border countryCode="RIM" length="813"/>
+      <border countryCode="RG" length="330"/>
+      <border countryCode="GNB" length="338"/>
+      <border countryCode="WAG" length="740"/>
+    </contCountries>
+  </country>
+  <country name="Guinea-Bissau" continent="Africa" blength="724">
+    <geo/>
+    <contCountries>
+      <border countryCode="RG" length="386"/>
+      <border countryCode="SN" length="338"/>
+    </contCountries>
+  </country>
+  <country name="Sierra Leone" continent="Africa" blength="958">
+    <geo/>
+    <contCountries>
+      <border countryCode="RG" length="652"/>
+      <border countryCode="LB" length="306"/>
+    </contCountries>
+  </country>
+  <country name="Uganda" continent="Africa" blength="2698">
+    <geo>
+      <mountain name="Elgon" height="4321"/>
+      <mountain name="Ruwenzori" height="5109"/>
+    </geo>
+    <peak height="5109"/>
+    <contCountries>
+      <border countryCode="EAT" length="396"/>
+      <border countryCode="EAK" length="933"/>
+      <border countryCode="ZRE" length="765"/>
+      <border countryCode="RWA" length="169"/>
+      <border countryCode="SUD" length="435"/>
+    </contCountries>
+  </country>
+  <country name="Lesotho" continent="Africa" blength="909">
+    <geo>
+      <mountain name="Thabana Ntlenyana" height="3482"/>
+    </geo>
+    <peak height="3482"/>
+    <contCountries>
+      <border countryCode="RSA" length="909"/>
+    </contCountries>
+  </country>
+  <country name="Madagascar" continent="Africa" blength="0">
+    <geo>
+      <mountain name="Tsiafajavona" height="2642"/>
+      <mountain name="Tsaratanana" height="2876"/>
+      <mountain name="Andringitra" height="2658"/>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+    </geo>
+    <peak height="2876"/>
+    <contCountries/>
+  </country>
+  <country name="Malawi" continent="Africa" blength="2881">
+    <geo/>
+    <contCountries>
+      <border countryCode="EAT" length="475"/>
+      <border countryCode="MOC" length="1569"/>
+      <border countryCode="Z" length="837"/>
+    </contCountries>
+  </country>
+  <country name="Mozambique" continent="Africa" blength="4571">
+    <geo/>
+    <contCountries>
+      <border countryCode="EAT" length="756"/>
+      <border countryCode="Z" length="419"/>
+      <border countryCode="RSA" length="491"/>
+      <border countryCode="ZW" length="1231"/>
+      <border countryCode="MW" length="1569"/>
+      <border countryCode="SD" length="105"/>
+    </contCountries>
+  </country>
+  <country name="Mauritius" continent="Africa" blength="0">
+    <geo>
+      <island name="Mauritius">
+        <coordinates latitude="-20" longitude="57"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Mayotte" continent="Africa" blength="0">
+    <geo>
+      <island name="Mayotte">
+        <coordinates latitude="-12.46" longitude="45.13"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Swaziland" continent="Africa" blength="535">
+    <geo/>
+    <contCountries>
+      <border countryCode="RSA" length="430"/>
+      <border countryCode="MOC" length="105"/>
+    </contCountries>
+  </country>
+  <country name="Reunion" continent="Australia/Oceania" blength="0">
+    <geo>
+      <mountain name="Piton de la Fournaise" height="2631"/>
+      <mountain name="Piton des Neiges" height="3069"/>
+      <island name="Reunion">
+        <coordinates latitude="-20.9" longitude="55.5"/>
+      </island>
+    </geo>
+    <peak height="3069"/>
+    <contCountries/>
+  </country>
+  <country name="Saint Helena" continent="Australia/Oceania" blength="0">
+    <geo>
+      <mountain name="Queen Marys Peak" height="2060"/>
+      <island name="Ascension">
+        <coordinates latitude="-7.9" longitude="-14.4"/>
+      </island>
+      <island name="Saint Helena">
+        <coordinates latitude="-15.56" longitude="-5.44"/>
+      </island>
+      <island name="Tristan Da Cunha">
+        <coordinates latitude="-37.1" longitude="-12.3"/>
+      </island>
+    </geo>
+    <peak height="2060"/>
+    <contCountries/>
+  </country>
+  <country name="Sao Tome and Principe" continent="Africa" blength="0">
+    <geo>
+      <mountain name="Pico de Sao Tome" height="2024"/>
+      <island name="Principe">
+        <coordinates latitude="1.6" longitude="7.4"/>
+      </island>
+      <island name="Sao Tome">
+        <coordinates latitude=".2" longitude="6.6"/>
+      </island>
+    </geo>
+    <peak height="2024"/>
+    <contCountries/>
+  </country>
+  <country name="Seychelles" continent="Africa" blength="0">
+    <geo>
+      <island name="Mahe">
+        <coordinates latitude="-4.65" longitude="55.5"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Albania" continent="Europe" blength="717">
+    <geo>
+      <mountain name="Jezerce" height="2694"/>
+      <mountain name="Korab" height="2751"/>
+    </geo>
+    <peak height="2751"/>
+    <contCountries>
+      <border countryCode="MK" length="151"/>
+      <border countryCode="MNE" length="172"/>
+      <border countryCode="KOS" length="112"/>
+      <border countryCode="GR" length="282"/>
+    </contCountries>
+  </country>
+  <country name="Greece" continent="Europe" blength="1210">
+    <geo>
+      <mountain name="Olymp" height="2917"/>
+      <mountain name="Psiloritis" height="2456"/>
+      <mountain name="Olymp" height="2917"/>
+      <island name="Kefallinia">
+        <coordinates latitude="38.2" longitude="20.6"/>
+      </island>
+      <island name="Korfu">
+        <coordinates latitude="39.6" longitude="19.8"/>
+      </island>
+      <island name="Lefkas">
+        <coordinates latitude="38.7" longitude="20.6"/>
+      </island>
+      <island name="Zakinthos">
+        <coordinates latitude="37.8" longitude="20.75"/>
+      </island>
+      <island name="Kreta">
+        <coordinates latitude="37" longitude="25"/>
+      </island>
+      <island name="Kos">
+        <coordinates latitude="36.8" longitude="27.1"/>
+      </island>
+      <island name="Rhodos">
+        <coordinates latitude="36.2" longitude="28"/>
+      </island>
+      <island name="Chios">
+        <coordinates latitude="38.4" longitude="26.2"/>
+      </island>
+      <island name="Ikaria">
+        <coordinates latitude="37.6" longitude="26.2"/>
+      </island>
+      <island name="Lesbos">
+        <coordinates latitude="39.2" longitude="26.3"/>
+      </island>
+      <island name="Samos">
+        <coordinates latitude="37.7" longitude="26.8"/>
+      </island>
+    </geo>
+    <peak height="2917"/>
+    <contCountries>
+      <border countryCode="AL" length="282"/>
+      <border countryCode="BG" length="494"/>
+      <border countryCode="MK" length="228"/>
+      <border countryCode="TR" length="206"/>
+    </contCountries>
+  </country>
+  <country name="Macedonia" continent="Europe" blength="748">
+    <geo>
+      <mountain name="Korab" height="2751"/>
+    </geo>
+    <peak height="2751"/>
+    <contCountries>
+      <border countryCode="AL" length="151"/>
+      <border countryCode="KOS" length="159"/>
+      <border countryCode="BG" length="148"/>
+      <border countryCode="GR" length="228"/>
+      <border countryCode="SRB" length="62"/>
+    </contCountries>
+  </country>
+  <country name="Serbia" continent="Europe" blength="2026">
+    <geo/>
+    <contCountries>
+      <border countryCode="MK" length="62"/>
+      <border countryCode="MNE" length="124"/>
+      <border countryCode="KOS" length="352"/>
+      <border countryCode="H" length="151"/>
+      <border countryCode="BIH" length="302"/>
+      <border countryCode="HR" length="241"/>
+      <border countryCode="BG" length="318"/>
+      <border countryCode="RO" length="476"/>
+    </contCountries>
+  </country>
+  <country name="Montenegro" continent="Europe" blength="400">
+    <geo/>
+    <contCountries>
+      <border countryCode="AL" length="172"/>
+      <border countryCode="KOS" length="79"/>
+      <border countryCode="HR" length="25"/>
+      <border countryCode="SRB" length="124"/>
+    </contCountries>
+  </country>
+  <country name="Kosovo" continent="Europe" blength="927">
+    <geo/>
+    <contCountries>
+      <border countryCode="AL" length="112"/>
+      <border countryCode="BIH" length="225"/>
+      <border countryCode="MK" length="159"/>
+      <border countryCode="SRB" length="352"/>
+      <border countryCode="MNE" length="79"/>
+    </contCountries>
+  </country>
+  <country name="Andorra" continent="Europe" blength="125">
+    <geo/>
+    <contCountries>
+      <border countryCode="F" length="60"/>
+      <border countryCode="E" length="65"/>
+    </contCountries>
+  </country>
+  <country name="France" continent="Europe" blength="2892.4">
+    <geo>
+      <mountain name="Grand Ballon" height="1424"/>
+      <mountain name="Puy De Dome" height="1465"/>
+      <mountain name="Puy de Sancy" height="1885"/>
+      <mountain name="Monte Cinto" height="2706"/>
+      <mountain name="Grand Ballon" height="1424"/>
+      <mountain name="Vignemale" height="3298"/>
+      <mountain name="Barre des Ecrins" height="4101"/>
+      <mountain name="Mont Blanc" height="4808"/>
+      <island name="Corse">
+        <coordinates latitude="41.4" longitude="8.4"/>
+      </island>
+    </geo>
+    <peak height="4808"/>
+    <contCountries>
+      <border countryCode="AND" length="60"/>
+      <border countryCode="E" length="623"/>
+      <border countryCode="D" length="451"/>
+      <border countryCode="CH" length="573"/>
+      <border countryCode="B" length="620"/>
+      <border countryCode="I" length="488"/>
+      <border countryCode="L" length="73"/>
+      <border countryCode="MC" length="4.4"/>
+    </contCountries>
+  </country>
+  <country name="Spain" continent="Europe" blength="1903.2">
+    <geo>
+      <mountain name="Mulhacen" height="3482"/>
+      <mountain name="Moncayo" height="2313"/>
+      <mountain name="Pico de Aneto" height="3404"/>
+      <mountain name="Vignemale" height="3298"/>
+      <mountain name="Torre de Cerredo" height="2648"/>
+      <mountain name="Pico de Teide" height="3718"/>
+      <mountain name="Pico de los Nieves" height="1949"/>
+      <mountain name="Roque de los Muchachos" height="2426"/>
+      <mountain name="Moncayo" height="2313"/>
+      <mountain name="Pico de Almanzor" height="2648"/>
+      <mountain name="Torre de Cerredo" height="2648"/>
+      <island name="Formentera">
+        <coordinates latitude="38" longitude="1.5"/>
+      </island>
+      <island name="Ibiza">
+        <coordinates latitude="38.5" longitude="1.5"/>
+      </island>
+      <island name="Mallorca">
+        <coordinates latitude="39.3" longitude="3"/>
+      </island>
+      <island name="Menorca">
+        <coordinates latitude="40" longitude="4"/>
+      </island>
+      <island name="Fuerteventura">
+        <coordinates latitude="28.4" longitude="-14"/>
+      </island>
+      <island name="Gomera">
+        <coordinates latitude="28.1" longitude="-17.3"/>
+      </island>
+      <island name="Gran Canaria">
+        <coordinates latitude="28" longitude="-15.6"/>
+      </island>
+      <island name="Hierro">
+        <coordinates latitude="27.7" longitude="-18"/>
+      </island>
+      <island name="La Palma">
+        <coordinates latitude="28.7" longitude="-17.9"/>
+      </island>
+      <island name="Lanzarote">
+        <coordinates latitude="29" longitude="-13.6"/>
+      </island>
+      <island name="Teneriffa">
+        <coordinates latitude="28.3" longitude="-16.6"/>
+      </island>
+    </geo>
+    <peak height="3718"/>
+    <contCountries>
+      <border countryCode="AND" length="65"/>
+      <border countryCode="F" length="623"/>
+      <border countryCode="GBZ" length="1.2"/>
+      <border countryCode="P" length="1214"/>
+    </contCountries>
+  </country>
+  <country name="Austria" continent="Europe" blength="2558">
+    <geo>
+      <mountain name="Grossglockner" height="3797"/>
+      <mountain name="Hochgolling" height="2862"/>
+      <mountain name="Hochgolling" height="2862"/>
+      <mountain name="Zugspitze" height="2963"/>
+    </geo>
+    <peak height="3797"/>
+    <contCountries>
+      <border countryCode="CZ" length="362"/>
+      <border countryCode="D" length="784"/>
+      <border countryCode="H" length="366"/>
+      <border countryCode="I" length="430"/>
+      <border countryCode="FL" length="37"/>
+      <border countryCode="SK" length="91"/>
+      <border countryCode="SLO" length="324"/>
+      <border countryCode="CH" length="164"/>
+    </contCountries>
+  </country>
+  <country name="Czech Republic" continent="Europe" blength="1881">
+    <geo>
+      <mountain name="Schneekoppe" height="1602"/>
+    </geo>
+    <peak height="1602"/>
+    <contCountries>
+      <border countryCode="A" length="362"/>
+      <border countryCode="D" length="646"/>
+      <border countryCode="SK" length="215"/>
+      <border countryCode="PL" length="658"/>
+    </contCountries>
+  </country>
+  <country name="Germany" continent="Europe" blength="3621">
+    <geo>
+      <mountain name="Feldberg" height="1493"/>
+      <mountain name="Grosser Arber" height="1456"/>
+      <mountain name="Zugspitze" height="2963"/>
+      <mountain name="Brocken" height="1141"/>
+      <island name="Rugen">
+        <coordinates latitude="54.5" longitude="13.4"/>
+      </island>
+      <island name="Usedom">
+        <coordinates latitude="53.9" longitude="14.1"/>
+      </island>
+      <island name="Baltrum">
+        <coordinates latitude="53.6" longitude="7.4"/>
+      </island>
+      <island name="Borkum">
+        <coordinates latitude="53.6" longitude="6.7"/>
+      </island>
+      <island name="Juist">
+        <coordinates latitude="53.6" longitude="7"/>
+      </island>
+      <island name="Langeoog">
+        <coordinates latitude="53.65" longitude="7.5"/>
+      </island>
+      <island name="Norderney">
+        <coordinates latitude="53.7" longitude="7.9"/>
+      </island>
+      <island name="Spiekeroog">
+        <coordinates latitude="53.8" longitude="7.6"/>
+      </island>
+      <island name="Wangerooge">
+        <coordinates latitude="53.8" longitude="7.9"/>
+      </island>
+      <island name="Amrum">
+        <coordinates latitude="54.65" longitude="8.3"/>
+      </island>
+      <island name="Fehmarn">
+        <coordinates latitude="54.4" longitude="11.2"/>
+      </island>
+      <island name="Fohr">
+        <coordinates latitude="54.7" longitude="8.5"/>
+      </island>
+      <island name="Helgoland">
+        <coordinates latitude="54.2" longitude="7.9"/>
+      </island>
+      <island name="Pellworm">
+        <coordinates latitude="54.5" longitude="8.6"/>
+      </island>
+      <island name="Sylt">
+        <coordinates latitude="54.9" longitude="8.3"/>
+      </island>
+    </geo>
+    <peak height="2963"/>
+    <contCountries>
+      <border countryCode="A" length="784"/>
+      <border countryCode="CZ" length="646"/>
+      <border countryCode="CH" length="334"/>
+      <border countryCode="B" length="167"/>
+      <border countryCode="F" length="451"/>
+      <border countryCode="PL" length="456"/>
+      <border countryCode="L" length="138"/>
+      <border countryCode="NL" length="577"/>
+      <border countryCode="DK" length="68"/>
+    </contCountries>
+  </country>
+  <country name="Hungary" continent="Europe" blength="2009">
+    <geo/>
+    <contCountries>
+      <border countryCode="A" length="366"/>
+      <border countryCode="SRB" length="151"/>
+      <border countryCode="SK" length="515"/>
+      <border countryCode="SLO" length="102"/>
+      <border countryCode="UA" length="103"/>
+      <border countryCode="HR" length="329"/>
+      <border countryCode="RO" length="443"/>
+    </contCountries>
+  </country>
+  <country name="Italy" continent="Europe" blength="1935.2">
+    <geo>
+      <mountain name="Gran Sasso" height="2912"/>
+      <mountain name="Vesuv" height="1281"/>
+      <mountain name="Monte Falterona" height="1654"/>
+      <mountain name="Monte Rosa" height="4634"/>
+      <mountain name="Piz Bernina" height="4048"/>
+      <mountain name="GranParadiso" height="4061"/>
+      <mountain name="Etna" height="3323"/>
+      <mountain name="Monte Falterona" height="1654"/>
+      <mountain name="Marmolata" height="3343"/>
+      <mountain name="GranParadiso" height="4061"/>
+      <mountain name="Matterhorn" height="4478"/>
+      <mountain name="Mont Blanc" height="4808"/>
+      <mountain name="Monte Rosa" height="4634"/>
+      <mountain name="Marmolata" height="3343"/>
+      <island name="Alicudi">
+        <coordinates latitude="38.6" longitude="14.4"/>
+      </island>
+      <island name="Filicudi">
+        <coordinates latitude="38.6" longitude="14.55"/>
+      </island>
+      <island name="Lipari">
+        <coordinates latitude="38.5" longitude="14.95"/>
+      </island>
+      <island name="Panarea">
+        <coordinates latitude="38.65" longitude="15.05"/>
+      </island>
+      <island name="Salina">
+        <coordinates latitude="38.6" longitude="14.9"/>
+      </island>
+      <island name="Stromboli">
+        <coordinates latitude="38.8" longitude="15.15"/>
+      </island>
+      <island name="Vulcano">
+        <coordinates latitude="38.4" longitude="15"/>
+      </island>
+      <island name="Sardegna">
+        <coordinates latitude="40" longitude="9"/>
+      </island>
+      <island name="Lampedusa">
+        <coordinates latitude="35.4" longitude="13.2"/>
+      </island>
+      <island name="Linosa">
+        <coordinates latitude="35.85" longitude="13.85"/>
+      </island>
+      <island name="Sicilia">
+        <coordinates latitude="37" longitude="14"/>
+      </island>
+    </geo>
+    <peak height="4808"/>
+    <contCountries>
+      <border countryCode="F" length="488"/>
+      <border countryCode="A" length="430"/>
+      <border countryCode="CH" length="740"/>
+      <border countryCode="SLO" length="235"/>
+      <border countryCode="V" length="3.2"/>
+      <border countryCode="RSM" length="39"/>
+    </contCountries>
+  </country>
+  <country name="Liechtenstein" continent="Europe" blength="78">
+    <geo/>
+    <contCountries>
+      <border countryCode="A" length="37"/>
+      <border countryCode="CH" length="41"/>
+    </contCountries>
+  </country>
+  <country name="Slovakia" continent="Europe" blength="1355">
+    <geo>
+      <mountain name="GerlachovskyStit" height="2655"/>
+    </geo>
+    <peak height="2655"/>
+    <contCountries>
+      <border countryCode="A" length="91"/>
+      <border countryCode="CZ" length="215"/>
+      <border countryCode="H" length="515"/>
+      <border countryCode="PL" length="444"/>
+      <border countryCode="UA" length="90"/>
+    </contCountries>
+  </country>
+  <country name="Slovenia" continent="Europe" blength="1207">
+    <geo/>
+    <contCountries>
+      <border countryCode="A" length="324"/>
+      <border countryCode="H" length="102"/>
+      <border countryCode="I" length="235"/>
+      <border countryCode="HR" length="546"/>
+    </contCountries>
+  </country>
+  <country name="Switzerland" continent="Europe" blength="1852">
+    <geo>
+      <mountain name="Finsteraarhorn" height="4274"/>
+      <mountain name="Crap_Sogn_Gion" height="2228"/>
+      <mountain name="Piz Bernina" height="4048"/>
+      <mountain name="Finsteraarhorn" height="4274"/>
+      <mountain name="GrandCombin" height="4314"/>
+      <mountain name="Matterhorn" height="4478"/>
+      <mountain name="Monte Rosa" height="4634"/>
+    </geo>
+    <peak height="4634"/>
+    <contCountries>
+      <border countryCode="A" length="164"/>
+      <border countryCode="F" length="573"/>
+      <border countryCode="D" length="334"/>
+      <border countryCode="I" length="740"/>
+      <border countryCode="FL" length="41"/>
+    </contCountries>
+  </country>
+  <country name="Belarus" continent="Europe" blength="3098">
+    <geo/>
+    <contCountries>
+      <border countryCode="LV" length="141"/>
+      <border countryCode="LT" length="502"/>
+      <border countryCode="PL" length="605"/>
+      <border countryCode="UA" length="891"/>
+      <border countryCode="R" length="959"/>
+    </contCountries>
+  </country>
+  <country name="Latvia" continent="Europe" blength="1078">
+    <geo/>
+    <contCountries>
+      <border countryCode="BY" length="141"/>
+      <border countryCode="LT" length="453"/>
+      <border countryCode="EW" length="267"/>
+      <border countryCode="R" length="217"/>
+    </contCountries>
+  </country>
+  <country name="Lithuania" continent="Europe" blength="1273">
+    <geo/>
+    <contCountries>
+      <border countryCode="BY" length="502"/>
+      <border countryCode="LV" length="453"/>
+      <border countryCode="PL" length="91"/>
+      <border countryCode="R" length="227"/>
+    </contCountries>
+  </country>
+  <country name="Poland" continent="Europe" blength="2888">
+    <geo>
+      <mountain name="Schneekoppe" height="1602"/>
+      <island name="Usedom">
+        <coordinates latitude="53.9" longitude="14.1"/>
+      </island>
+    </geo>
+    <peak height="1602"/>
+    <contCountries>
+      <border countryCode="CZ" length="658"/>
+      <border countryCode="D" length="456"/>
+      <border countryCode="BY" length="605"/>
+      <border countryCode="LT" length="91"/>
+      <border countryCode="SK" length="444"/>
+      <border countryCode="UA" length="428"/>
+      <border countryCode="R" length="206"/>
+    </contCountries>
+  </country>
+  <country name="Ukraine" continent="Europe" blength="4558">
+    <geo/>
+    <contCountries>
+      <border countryCode="H" length="103"/>
+      <border countryCode="SK" length="90"/>
+      <border countryCode="BY" length="891"/>
+      <border countryCode="PL" length="428"/>
+      <border countryCode="R" length="1576"/>
+      <border countryCode="RO" length="531"/>
+      <border countryCode="MD" length="939"/>
+    </contCountries>
+  </country>
+  <country name="Russia" continent="Asia" blength="19913">
+    <geo>
+      <mountain name="Elbrus" height="5642"/>
+      <mountain name="Kljutschewskaja Sopka" height="4750"/>
+      <mountain name="Bjelucha" height="4506"/>
+      <mountain name="Zhima" height="1276"/>
+      <mountain name="Narodnaja" height="1895"/>
+      <mountain name="Kasbek" height="5033"/>
+      <desert name="Ryn" area="80000"/>
+      <desert name="Ryn" area="80000"/>
+      <island name="Paramuschir">
+        <coordinates latitude="50.5" longitude="155.75"/>
+      </island>
+      <island name="Olkhon">
+        <coordinates latitude="53.15" longitude="107.4"/>
+      </island>
+      <island name="Kotelny Island">
+        <coordinates latitude="75.4" longitude="141"/>
+      </island>
+      <island name="Sachalin">
+        <coordinates latitude="50" longitude="143"/>
+      </island>
+    </geo>
+    <peak height="5642"/>
+    <contCountries>
+      <border countryCode="GE" length="723"/>
+      <border countryCode="AZ" length="284"/>
+      <border countryCode="KAZ" length="6846"/>
+      <border countryCode="NOK" length="19"/>
+      <border countryCode="MNG" length="3441"/>
+      <border countryCode="TJ" length="3645"/>
+    </contCountries>
+  </country>
+  <country name="Belgium" continent="Europe" blength="1385">
+    <geo/>
+    <contCountries>
+      <border countryCode="F" length="620"/>
+      <border countryCode="D" length="167"/>
+      <border countryCode="L" length="148"/>
+      <border countryCode="NL" length="450"/>
+    </contCountries>
+  </country>
+  <country name="Luxembourg" continent="Europe" blength="359">
+    <geo/>
+    <contCountries>
+      <border countryCode="F" length="73"/>
+      <border countryCode="D" length="138"/>
+      <border countryCode="B" length="148"/>
+    </contCountries>
+  </country>
+  <country name="Netherlands" continent="Europe" blength="1027">
+    <geo>
+      <island name="Ameland">
+        <coordinates latitude="53.5" longitude="5.75"/>
+      </island>
+      <island name="Schiermonnikoog">
+        <coordinates latitude="53.5" longitude="6.2"/>
+      </island>
+      <island name="Terschelling">
+        <coordinates latitude="53.4" longitude="5.3"/>
+      </island>
+      <island name="Vlieland">
+        <coordinates latitude="53.25" longitude="5"/>
+      </island>
+      <island name="Texel">
+        <coordinates latitude="53.1" longitude="4.8"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="D" length="577"/>
+      <border countryCode="B" length="450"/>
+    </contCountries>
+  </country>
+  <country name="Bosnia and Herzegovina" continent="Europe" blength="1459">
+    <geo/>
+    <contCountries>
+      <border countryCode="SRB" length="302"/>
+      <border countryCode="KOS" length="225"/>
+      <border countryCode="HR" length="932"/>
+    </contCountries>
+  </country>
+  <country name="Croatia" continent="Europe" blength="2073">
+    <geo/>
+    <contCountries>
+      <border countryCode="H" length="329"/>
+      <border countryCode="BIH" length="932"/>
+      <border countryCode="SRB" length="241"/>
+      <border countryCode="MNE" length="25"/>
+      <border countryCode="SLO" length="546"/>
+    </contCountries>
+  </country>
+  <country name="Bulgaria" continent="Europe" blength="1808">
+    <geo>
+      <mountain name="Musala" height="2925"/>
+    </geo>
+    <peak height="2925"/>
+    <contCountries>
+      <border countryCode="MK" length="148"/>
+      <border countryCode="SRB" length="318"/>
+      <border countryCode="RO" length="608"/>
+      <border countryCode="TR" length="240"/>
+      <border countryCode="GR" length="494"/>
+    </contCountries>
+  </country>
+  <country name="Romania" continent="Europe" blength="2508">
+    <geo>
+      <mountain name="Moldoveanu" height="2544"/>
+      <mountain name="Moldoveanu" height="2544"/>
+      <mountain name="Moldoveanu" height="2544"/>
+    </geo>
+    <peak height="2544"/>
+    <contCountries>
+      <border countryCode="H" length="443"/>
+      <border countryCode="BG" length="608"/>
+      <border countryCode="MD" length="450"/>
+      <border countryCode="SRB" length="476"/>
+      <border countryCode="UA" length="531"/>
+    </contCountries>
+  </country>
+  <country name="Turkey" continent="Asia" blength="2627">
+    <geo>
+      <mountain name="Ararat" height="5165"/>
+      <mountain name="Demirkazik" height="3756"/>
+    </geo>
+    <peak height="5165"/>
+    <contCountries>
+      <border countryCode="IR" length="499"/>
+      <border countryCode="ARM" length="268"/>
+      <border countryCode="GE" length="252"/>
+      <border countryCode="AZ" length="9"/>
+      <border countryCode="IRQ" length="331"/>
+      <border countryCode="SYR" length="822"/>
+    </contCountries>
+  </country>
+  <country name="Denmark" continent="Europe" blength="68">
+    <geo>
+      <island name="Bornholm">
+        <coordinates latitude="55.1" longitude="14.9"/>
+      </island>
+      <island name="Falster">
+        <coordinates latitude="54.8" longitude="12"/>
+      </island>
+      <island name="Fuenen">
+        <coordinates latitude="55.35" longitude="10.25"/>
+      </island>
+      <island name="Langeland">
+        <coordinates latitude="55" longitude="10.5"/>
+      </island>
+      <island name="Lolland">
+        <coordinates latitude="54.4" longitude="11.5"/>
+      </island>
+      <island name="Seeland">
+        <coordinates latitude="55.3" longitude="12"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="D" length="68"/>
+    </contCountries>
+  </country>
+  <country name="Estonia" continent="Europe" blength="557">
+    <geo>
+      <island name="Dagoe">
+        <coordinates latitude="58.8" longitude="22.7"/>
+      </island>
+      <island name="Oesel">
+        <coordinates latitude="58.3" longitude="22"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="LV" length="267"/>
+      <border countryCode="R" length="290"/>
+    </contCountries>
+  </country>
+  <country name="Faroe Islands" continent="Europe" blength="0">
+    <geo>
+      <island name="Streymoy">
+        <coordinates latitude="62" longitude="-7"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Finland" continent="Europe" blength="2628">
+    <geo>
+      <mountain name="Haltiatunturi" height="1328"/>
+      <island name="Aland">
+        <coordinates latitude="60.1" longitude="20"/>
+      </island>
+    </geo>
+    <peak height="1328"/>
+    <contCountries>
+      <border countryCode="R" length="1313"/>
+      <border countryCode="N" length="729"/>
+      <border countryCode="S" length="586"/>
+    </contCountries>
+  </country>
+  <country name="Norway" continent="Europe" blength="2515">
+    <geo>
+      <mountain name="Joekul" height="1876"/>
+      <mountain name="Sulitjelma" height="1914"/>
+      <mountain name="Galdhoeppig" height="2469"/>
+      <mountain name="Glittertind" height="2452"/>
+      <mountain name="Snoehetta" height="2286"/>
+      <mountain name="Jostedalsbre" height="2083"/>
+      <island name="Aust-Vagoey">
+        <coordinates latitude="68.3" longitude="14.6"/>
+      </island>
+    </geo>
+    <peak height="2469"/>
+    <contCountries>
+      <border countryCode="R" length="167"/>
+      <border countryCode="SF" length="729"/>
+      <border countryCode="S" length="1619"/>
+    </contCountries>
+  </country>
+  <country name="Sweden" continent="Europe" blength="2205">
+    <geo>
+      <mountain name="Kebnekaise" height="2114"/>
+      <mountain name="Portefjaellen" height="2021"/>
+      <mountain name="Sarektjokko" height="2090"/>
+      <mountain name="Sulitjelma" height="1914"/>
+      <mountain name="Tarrekaise" height="1850"/>
+      <island name="Gotland">
+        <coordinates latitude="57.5" longitude="18.5"/>
+      </island>
+      <island name="Oeland">
+        <coordinates latitude="57" longitude="17"/>
+      </island>
+    </geo>
+    <peak height="2114"/>
+    <contCountries>
+      <border countryCode="N" length="1619"/>
+      <border countryCode="SF" length="586"/>
+    </contCountries>
+  </country>
+  <country name="Monaco" continent="Europe" blength="4.4">
+    <geo/>
+    <contCountries>
+      <border countryCode="F" length="4.4"/>
+    </contCountries>
+  </country>
+  <country name="Gibraltar" continent="Europe" blength="1.2">
+    <geo/>
+    <contCountries>
+      <border countryCode="E" length="1.2"/>
+    </contCountries>
+  </country>
+  <country name="Guernsey" continent="Europe" blength="0">
+    <geo>
+      <island name="Guernsey">
+        <coordinates latitude="49.6" longitude="-2.6"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Holy See" continent="Europe" blength="3.2">
+    <geo/>
+    <contCountries>
+      <border countryCode="I" length="3.2"/>
+    </contCountries>
+  </country>
+  <country name="Iceland" continent="Europe" blength="0">
+    <geo>
+      <mountain name="Oeraefajoekull" height="2119"/>
+      <mountain name="Snoefell" height="1833"/>
+      <island name="Iceland">
+        <coordinates latitude="65" longitude="-18"/>
+      </island>
+    </geo>
+    <peak height="2119"/>
+    <contCountries/>
+  </country>
+  <country name="Ireland" continent="Europe" blength="360">
+    <geo>
+      <island name="Ireland">
+        <coordinates latitude="53.5" longitude="-7.8"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="GB" length="360"/>
+    </contCountries>
+  </country>
+  <country name="San Marino" continent="Europe" blength="39">
+    <geo/>
+    <contCountries>
+      <border countryCode="I" length="39"/>
+    </contCountries>
+  </country>
+  <country name="Jersey" continent="Europe" blength="0">
+    <geo>
+      <island name="Jersey">
+        <coordinates latitude="49.2" longitude="-2.1"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Malta" continent="Europe" blength="0">
+    <geo>
+      <island name="Gozo">
+        <coordinates latitude="36.05" longitude="14.3"/>
+      </island>
+      <island name="Malta">
+        <coordinates latitude="35.9" longitude="14.5"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Man" continent="Europe" blength="0">
+    <geo>
+      <island name="Isle of Man">
+        <coordinates latitude="54.1" longitude="-4.5"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Moldova" continent="Europe" blength="1389">
+    <geo/>
+    <contCountries>
+      <border countryCode="UA" length="939"/>
+      <border countryCode="RO" length="450"/>
+    </contCountries>
+  </country>
+  <country name="Portugal" continent="Europe" blength="1214">
+    <geo>
+      <mountain name="Pico" height="2351"/>
+      <mountain name="Torre de Estrela" height="1993"/>
+      <mountain name="Pico Ruivo" height="1861"/>
+      <island name="Corvo">
+        <coordinates latitude="39.7" longitude="-31.1"/>
+      </island>
+      <island name="Faial">
+        <coordinates latitude="38.6" longitude="-28.7"/>
+      </island>
+      <island name="Flores">
+        <coordinates latitude="39.5" longitude="-31.2"/>
+      </island>
+      <island name="Graciosa">
+        <coordinates latitude="39" longitude="-28"/>
+      </island>
+      <island name="Pico">
+        <coordinates latitude="38.5" longitude="-28.4"/>
+      </island>
+      <island name="Santa Maria">
+        <coordinates latitude="37" longitude="-25.1"/>
+      </island>
+      <island name="Sao Jorge">
+        <coordinates latitude="38.6" longitude="-28"/>
+      </island>
+      <island name="Sao Miguel">
+        <coordinates latitude="37.7" longitude="-25.5"/>
+      </island>
+      <island name="Terceira">
+        <coordinates latitude="38.7" longitude="-27.2"/>
+      </island>
+      <island name="Madeira">
+        <coordinates latitude="31" longitude="-16"/>
+      </island>
+      <island name="Porto Santo">
+        <coordinates latitude="33" longitude="-16.35"/>
+      </island>
+    </geo>
+    <peak height="2351"/>
+    <contCountries>
+      <border countryCode="E" length="1214"/>
+    </contCountries>
+  </country>
+  <country name="Svalbard" continent="Europe" blength="0">
+    <geo>
+      <island name="Svalbard">
+        <coordinates latitude="78.9" longitude="18.2"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="United Kingdom" continent="Europe" blength="360">
+    <geo>
+      <mountain name="Ben Nevis" height="1344"/>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Anglesey">
+        <coordinates latitude="53.3" longitude="-4.4"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Bishop Rock">
+        <coordinates latitude="50" longitude="-6.3"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Lundy">
+        <coordinates latitude="51" longitude="-4.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Mull">
+        <coordinates latitude="56.3" longitude="6"/>
+      </island>
+      <island name="Rhum">
+        <coordinates latitude="57" longitude="-6.3"/>
+      </island>
+      <island name="Skye">
+        <coordinates latitude="57.3" longitude="-6.3"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Isle of Wight">
+        <coordinates latitude="50.6" longitude="-1.3"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Ireland">
+        <coordinates latitude="53.5" longitude="-7.8"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Hoy">
+        <coordinates latitude="59.1" longitude="-3.2"/>
+      </island>
+      <island name="Orkney Mainland">
+        <coordinates latitude="59" longitude="-3.1"/>
+      </island>
+      <island name="South Ronaldsay">
+        <coordinates latitude="58.6" longitude="-3.1"/>
+      </island>
+      <island name="Westray">
+        <coordinates latitude="59.4" longitude="-3"/>
+      </island>
+      <island name="Barra">
+        <coordinates latitude="57" longitude="-7.7"/>
+      </island>
+      <island name="Benbecula">
+        <coordinates latitude="57.45" longitude="-7.3"/>
+      </island>
+      <island name="Lewis and Harris">
+        <coordinates latitude="57.9" longitude="-6.8"/>
+      </island>
+      <island name="North Uist">
+        <coordinates latitude="57.4" longitude="-7.1"/>
+      </island>
+      <island name="South Uist">
+        <coordinates latitude="57.2" longitude="-7.2"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Shetland Mainland">
+        <coordinates latitude="60.3" longitude="-1.3"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Arran">
+        <coordinates latitude="55.3" longitude="-5.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Islay">
+        <coordinates latitude="62.1" longitude="7"/>
+      </island>
+      <island name="Jura">
+        <coordinates latitude="56" longitude="-6"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+    </geo>
+    <peak height="1344"/>
+    <contCountries>
+      <border countryCode="IRL" length="360"/>
+    </contCountries>
+  </country>
+  <country name="Afghanistan" continent="Asia" blength="5529">
+    <geo>
+      <mountain name="Tirich Mir" height="7690"/>
+      <desert name="Dascht-e-Margoh" area="40000"/>
+      <desert name="Rigestan" area="25000"/>
+    </geo>
+    <peak height="7690"/>
+    <contCountries>
+      <border countryCode="TJ" length="76"/>
+      <border countryCode="IR" length="936"/>
+      <border countryCode="PK" length="2430"/>
+      <border countryCode="TAD" length="1206"/>
+      <border countryCode="TM" length="744"/>
+      <border countryCode="UZB" length="137"/>
+    </contCountries>
+  </country>
+  <country name="China" continent="Asia" blength="22143.34">
+    <geo>
+      <mountain name="Changbai Shan" height="2744"/>
+      <mountain name="Cho Oyu" height="8188"/>
+      <mountain name="Kailash" height="6714"/>
+      <mountain name="Lhotse" height="8516"/>
+      <mountain name="Makalu" height="8485"/>
+      <mountain name="Mount Everest" height="8848"/>
+      <mountain name="Shishapangma" height="8027"/>
+      <mountain name="Broad Peak" height="8051"/>
+      <mountain name="Gasherbrum I" height="8080"/>
+      <mountain name="Gasherbrum II" height="8034"/>
+      <mountain name="K2" height="8611"/>
+      <mountain name="Pik Pobeda" height="7439"/>
+      <desert name="Gobi" area="1000000"/>
+      <desert name="Gobi" area="1000000"/>
+      <desert name="Gobi" area="1000000"/>
+      <desert name="Gurbantunggut" area="48800"/>
+      <desert name="Kum Tagh" area="22000"/>
+      <desert name="Ordos" area="90000"/>
+      <desert name="Ordos" area="90000"/>
+      <desert name="Ordos" area="90000"/>
+      <desert name="Qaidam" area="120000"/>
+      <desert name="TaklaMakan" area="300000"/>
+      <island name="Hainan">
+        <coordinates latitude="19.1" longitude="109.6"/>
+      </island>
+    </geo>
+    <peak height="8848"/>
+    <contCountries>
+      <border countryCode="R" length="3645"/>
+      <border countryCode="AFG" length="76"/>
+      <border countryCode="PK" length="523"/>
+      <border countryCode="TAD" length="414"/>
+      <border countryCode="MYA" length="2185"/>
+      <border countryCode="IND" length="3380"/>
+      <border countryCode="BHT" length="470"/>
+      <border countryCode="LAO" length="423"/>
+      <border countryCode="KAZ" length="1533"/>
+      <border countryCode="NOK" length="1416"/>
+      <border countryCode="KGZ" length="858"/>
+      <border countryCode="HONX" length="30"/>
+      <border countryCode="MACX" length=".34"/>
+      <border countryCode="MNG" length="4673"/>
+      <border countryCode="NEP" length="1236"/>
+      <border countryCode="VN" length="1281"/>
+    </contCountries>
+  </country>
+  <country name="Iran" continent="Asia" blength="5440">
+    <geo>
+      <mountain name="Sabalan" height="4811"/>
+      <mountain name="Zard Kuh" height="4550"/>
+      <mountain name="Damavand" height="5610"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <island name="Khark">
+        <coordinates latitude="29.1" longitude="50.2"/>
+      </island>
+      <island name="Lavan">
+        <coordinates latitude="26.5" longitude="53.1"/>
+      </island>
+      <island name="Gheschm"/>
+    </geo>
+    <peak height="5610"/>
+    <contCountries>
+      <border countryCode="AFG" length="936"/>
+      <border countryCode="ARM" length="35"/>
+      <border countryCode="AZ" length="611"/>
+      <border countryCode="PK" length="909"/>
+      <border countryCode="TM" length="992"/>
+      <border countryCode="IRQ" length="1458"/>
+      <border countryCode="TR" length="499"/>
+    </contCountries>
+  </country>
+  <country name="Pakistan" continent="Asia" blength="6774">
+    <geo>
+      <mountain name="Broad Peak" height="8051"/>
+      <mountain name="Gasherbrum I" height="8080"/>
+      <mountain name="Gasherbrum II" height="8034"/>
+      <mountain name="K2" height="8611"/>
+      <mountain name="Nanga Parbat" height="8125"/>
+      <desert name="Rigestan" area="25000"/>
+      <desert name="Thar" area="240000"/>
+    </geo>
+    <peak height="8611"/>
+    <contCountries>
+      <border countryCode="AFG" length="2430"/>
+      <border countryCode="IR" length="909"/>
+      <border countryCode="IND" length="2912"/>
+      <border countryCode="TJ" length="523"/>
+    </contCountries>
+  </country>
+  <country name="Tajikistan" continent="Asia" blength="3651">
+    <geo>
+      <mountain name="Pik Karl-Marx" height="6726"/>
+      <mountain name="Pik Kommunizma" height="7494"/>
+      <mountain name="Pik Lenina" height="7134"/>
+      <mountain name="Pik Moskva" height="6785"/>
+      <mountain name="Pik Revoluzija" height="6974"/>
+    </geo>
+    <peak height="7494"/>
+    <contCountries>
+      <border countryCode="AFG" length="1206"/>
+      <border countryCode="KGZ" length="870"/>
+      <border countryCode="TJ" length="414"/>
+      <border countryCode="UZB" length="1161"/>
+    </contCountries>
+  </country>
+  <country name="Turkmenistan" continent="Asia" blength="3736">
+    <geo>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="AFG" length="744"/>
+      <border countryCode="IR" length="992"/>
+      <border countryCode="KAZ" length="379"/>
+      <border countryCode="UZB" length="1621"/>
+    </contCountries>
+  </country>
+  <country name="Uzbekistan" continent="Asia" blength="6221">
+    <geo>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Kysylkum" area="200000"/>
+      <desert name="Kysylkum" area="200000"/>
+      <desert name="Kysylkum" area="200000"/>
+      <desert name="Ust Urt" area="180000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="AFG" length="137"/>
+      <border countryCode="TAD" length="1161"/>
+      <border countryCode="TM" length="1621"/>
+      <border countryCode="KAZ" length="2203"/>
+      <border countryCode="KGZ" length="1099"/>
+    </contCountries>
+  </country>
+  <country name="Armenia" continent="Asia" blength="1254">
+    <geo/>
+    <contCountries>
+      <border countryCode="IR" length="35"/>
+      <border countryCode="GE" length="164"/>
+      <border countryCode="AZ" length="787"/>
+      <border countryCode="TR" length="268"/>
+    </contCountries>
+  </country>
+  <country name="Georgia" continent="Asia" blength="1461">
+    <geo>
+      <mountain name="Kasbek" height="5033"/>
+    </geo>
+    <peak height="5033"/>
+    <contCountries>
+      <border countryCode="ARM" length="164"/>
+      <border countryCode="AZ" length="322"/>
+      <border countryCode="R" length="723"/>
+      <border countryCode="TR" length="252"/>
+    </contCountries>
+  </country>
+  <country name="Azerbaijan" continent="Asia" blength="2013">
+    <geo/>
+    <contCountries>
+      <border countryCode="ARM" length="787"/>
+      <border countryCode="R" length="284"/>
+      <border countryCode="IR" length="611"/>
+      <border countryCode="GE" length="322"/>
+      <border countryCode="TR" length="9"/>
+    </contCountries>
+  </country>
+  <country name="Bahrain" continent="Asia" blength="0">
+    <geo>
+      <island name="Bahrain">
+        <coordinates latitude="26" longitude="50.5"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Bangladesh" continent="Asia" blength="4246">
+    <geo/>
+    <contCountries>
+      <border countryCode="MYA" length="193"/>
+      <border countryCode="IND" length="4053"/>
+    </contCountries>
+  </country>
+  <country name="Myanmar" continent="Asia" blength="5876">
+    <geo/>
+    <contCountries>
+      <border countryCode="BD" length="193"/>
+      <border countryCode="IND" length="1463"/>
+      <border countryCode="LAO" length="235"/>
+      <border countryCode="TJ" length="2185"/>
+      <border countryCode="THA" length="1800"/>
+    </contCountries>
+  </country>
+  <country name="India" continent="Asia" blength="14103">
+    <geo>
+      <mountain name="Kangchendzonga" height="8586"/>
+      <mountain name="Dodabetta" height="2636"/>
+      <mountain name="Nanda Devi" height="7816"/>
+      <desert name="Thar" area="240000"/>
+      <desert name="Thar" area="240000"/>
+      <desert name="Thar" area="240000"/>
+      <desert name="Thar" area="240000"/>
+      <island name="South Andaman Island">
+        <coordinates latitude="11.4" longitude="92.5"/>
+      </island>
+      <island name="Kavaratti">
+        <coordinates latitude="10.6" longitude="72.6"/>
+      </island>
+    </geo>
+    <peak height="8586"/>
+    <contCountries>
+      <border countryCode="BD" length="4053"/>
+      <border countryCode="BHT" length="605"/>
+      <border countryCode="TJ" length="3380"/>
+      <border countryCode="PK" length="2912"/>
+      <border countryCode="MYA" length="1463"/>
+      <border countryCode="NEP" length="1690"/>
+    </contCountries>
+  </country>
+  <country name="Bhutan" continent="Asia" blength="1075">
+    <geo/>
+    <contCountries>
+      <border countryCode="TJ" length="470"/>
+      <border countryCode="IND" length="605"/>
+    </contCountries>
+  </country>
+  <country name="Brunei" continent="Asia" blength="381">
+    <geo>
+      <island name="Borneo">
+        <coordinates latitude="-.2" longitude="113.67"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="MAL" length="381"/>
+    </contCountries>
+  </country>
+  <country name="Malaysia" continent="Asia" blength="2669">
+    <geo>
+      <mountain name="Tahan" height="2190"/>
+      <mountain name="Tahan" height="2190"/>
+      <mountain name="Kinabalu" height="4101"/>
+      <island name="Borneo">
+        <coordinates latitude="-.2" longitude="113.67"/>
+      </island>
+      <island name="Borneo">
+        <coordinates latitude="-.2" longitude="113.67"/>
+      </island>
+    </geo>
+    <peak height="4101"/>
+    <contCountries>
+      <border countryCode="BRU" length="381"/>
+      <border countryCode="THA" length="506"/>
+      <border countryCode="RI" length="1782"/>
+    </contCountries>
+  </country>
+  <country name="Laos" continent="Asia" blength="5083">
+    <geo/>
+    <contCountries>
+      <border countryCode="K" length="541"/>
+      <border countryCode="TJ" length="423"/>
+      <border countryCode="MYA" length="235"/>
+      <border countryCode="THA" length="1754"/>
+      <border countryCode="VN" length="2130"/>
+    </contCountries>
+  </country>
+  <country name="Thailand" continent="Asia" blength="4863">
+    <geo/>
+    <contCountries>
+      <border countryCode="MYA" length="1800"/>
+      <border countryCode="MAL" length="506"/>
+      <border countryCode="LAO" length="1754"/>
+      <border countryCode="K" length="803"/>
+    </contCountries>
+  </country>
+  <country name="Cambodia" continent="Asia" blength="2572">
+    <geo/>
+    <contCountries>
+      <border countryCode="LAO" length="541"/>
+      <border countryCode="THA" length="803"/>
+      <border countryCode="VN" length="1228"/>
+    </contCountries>
+  </country>
+  <country name="Vietnam" continent="Asia" blength="4639">
+    <geo/>
+    <contCountries>
+      <border countryCode="TJ" length="1281"/>
+      <border countryCode="LAO" length="2130"/>
+      <border countryCode="K" length="1228"/>
+    </contCountries>
+  </country>
+  <country name="Kazakstan" continent="Asia" blength="12012">
+    <geo>
+      <mountain name="Bjelucha" height="4506"/>
+      <desert name="Kysylkum" area="200000"/>
+      <desert name="Mujunkum" area="37500"/>
+      <desert name="Mujunkum" area="37500"/>
+      <desert name="Ryn" area="80000"/>
+      <desert name="Ryn" area="80000"/>
+      <desert name="Ust Urt" area="180000"/>
+      <desert name="Ust Urt" area="180000"/>
+    </geo>
+    <peak height="4506"/>
+    <contCountries>
+      <border countryCode="R" length="6846"/>
+      <border countryCode="TJ" length="1533"/>
+      <border countryCode="TM" length="379"/>
+      <border countryCode="UZB" length="2203"/>
+      <border countryCode="KGZ" length="1051"/>
+    </contCountries>
+  </country>
+  <country name="North Korea" continent="Asia" blength="1673">
+    <geo>
+      <mountain name="Changbai Shan" height="2744"/>
+    </geo>
+    <peak height="2744"/>
+    <contCountries>
+      <border countryCode="R" length="19"/>
+      <border countryCode="TJ" length="1416"/>
+      <border countryCode="ROK" length="238"/>
+    </contCountries>
+  </country>
+  <country name="Kyrgyzstan" continent="Asia" blength="3878">
+    <geo>
+      <mountain name="Pik Chan-Tengri" height="6995"/>
+      <mountain name="Pik Lenina" height="7134"/>
+      <mountain name="Pik Pobeda" height="7439"/>
+    </geo>
+    <peak height="7439"/>
+    <contCountries>
+      <border countryCode="KAZ" length="1051"/>
+      <border countryCode="TJ" length="858"/>
+      <border countryCode="TAD" length="870"/>
+      <border countryCode="UZB" length="1099"/>
+    </contCountries>
+  </country>
+  <country name="Hong Kong" continent="Asia" blength="30">
+    <geo/>
+    <contCountries>
+      <border countryCode="TJ" length="30"/>
+    </contCountries>
+  </country>
+  <country name="Macau" continent="Asia" blength=".34">
+    <geo/>
+    <contCountries>
+      <border countryCode="TJ" length=".34"/>
+    </contCountries>
+  </country>
+  <country name="Mongolia" continent="Asia" blength="8114">
+    <geo>
+      <desert name="Gobi" area="1000000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="R" length="3441"/>
+      <border countryCode="TJ" length="4673"/>
+    </contCountries>
+  </country>
+  <country name="Nepal" continent="Asia" blength="2926">
+    <geo>
+      <mountain name="Annapurna" height="8091"/>
+      <mountain name="Cho Oyu" height="8188"/>
+      <mountain name="Dhaulagiri" height="8167"/>
+      <mountain name="Kangchendzonga" height="8586"/>
+      <mountain name="Lhotse" height="8516"/>
+      <mountain name="Makalu" height="8485"/>
+      <mountain name="Manaslu" height="8163"/>
+      <mountain name="Mount Everest" height="8848"/>
+    </geo>
+    <peak height="8848"/>
+    <contCountries>
+      <border countryCode="IND" length="1690"/>
+      <border countryCode="TJ" length="1236"/>
+    </contCountries>
+  </country>
+  <country name="Christmas Island" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Christmas Island">
+        <coordinates latitude="-10.25" longitude="105.43"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Cocos Islands" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Pulau Panjang">
+        <coordinates latitude="-12.2" longitude="96.9"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Cyprus" continent="Europe" blength="0">
+    <geo>
+      <mountain name="Olympos" height="1952"/>
+      <island name="Cyprus">
+        <coordinates latitude="35.4" longitude="33.2"/>
+      </island>
+    </geo>
+    <peak height="1952"/>
+    <contCountries/>
+  </country>
+  <country name="Gaza Strip" continent="Asia" blength="62">
+    <geo/>
+    <contCountries>
+      <border countryCode="ET" length="11"/>
+      <border countryCode="IL" length="51"/>
+    </contCountries>
+  </country>
+  <country name="Israel" continent="Asia" blength="1006">
+    <geo>
+      <desert name="Negev" area="12000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="GAZA" length="51"/>
+      <border countryCode="ET" length="255"/>
+      <border countryCode="JOR" length="238"/>
+      <border countryCode="SYR" length="76"/>
+      <border countryCode="RL" length="79"/>
+      <border countryCode="WEST" length="307"/>
+    </contCountries>
+  </country>
+  <country name="Egypt" continent="Africa" blength="2689">
+    <geo>
+      <mountain name="Jabal Katrina" height="2637"/>
+      <desert name="Arabian Desert" area="50000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+    </geo>
+    <peak height="2637"/>
+    <contCountries>
+      <border countryCode="LAR" length="1150"/>
+      <border countryCode="SUD" length="1273"/>
+    </contCountries>
+  </country>
+  <country name="Indonesia" continent="Asia" blength="2830">
+    <geo>
+      <mountain name="Gunung Agung" height="3142"/>
+      <mountain name="Gunung Binaiya" height="3027"/>
+      <mountain name="Kerinci" height="3805"/>
+      <mountain name="Krakatau" height="813"/>
+      <mountain name="Leuser" height="3466"/>
+      <mountain name="Merapi" height="2914"/>
+      <mountain name="Puncak Jaya" height="4884"/>
+      <mountain name="Rantekombola" height="3455"/>
+      <mountain name="Rinjani" height="3726"/>
+      <mountain name="Semeru" height="3676"/>
+      <mountain name="Tambora" height="2850"/>
+      <island name="Ambon">
+        <coordinates latitude="-3.7" longitude="128.2"/>
+      </island>
+      <island name="Bali">
+        <coordinates latitude="-8.4" longitude="115.1"/>
+      </island>
+      <island name="Bangka">
+        <coordinates latitude="2.25" longitude="106"/>
+      </island>
+      <island name="Batam">
+        <coordinates latitude="1.1" longitude="104.05"/>
+      </island>
+      <island name="Borneo">
+        <coordinates latitude="-.2" longitude="113.67"/>
+      </island>
+      <island name="Ceram">
+        <coordinates latitude="-2" longitude="128"/>
+      </island>
+      <island name="Java">
+        <coordinates latitude="-7.5" longitude="111.25"/>
+      </island>
+      <island name="Krakatau">
+        <coordinates latitude="-6.1" longitude="105.6"/>
+      </island>
+      <island name="Lombok">
+        <coordinates latitude="-8.4" longitude="116.5"/>
+      </island>
+      <island name="New Guinea">
+        <coordinates latitude="-5" longitude="142"/>
+      </island>
+      <island name="Samosir">
+        <coordinates latitude="2.6" longitude="98.85"/>
+      </island>
+      <island name="Sulawesi">
+        <coordinates latitude="-2.1" longitude="120.3"/>
+      </island>
+      <island name="Sumatra">
+        <coordinates latitude="0" longitude="102"/>
+      </island>
+      <island name="Sumbawa">
+        <coordinates latitude="-8.8" longitude="116.1"/>
+      </island>
+      <island name="Timor">
+        <coordinates latitude="-9.2" longitude="124.9"/>
+      </island>
+    </geo>
+    <peak height="4884"/>
+    <contCountries>
+      <border countryCode="MAL" length="1782"/>
+      <border countryCode="TL" length="228"/>
+    </contCountries>
+  </country>
+  <country name="Timor-Leste" continent="Asia" blength="228">
+    <geo>
+      <mountain name="Tatamailau" height="2963"/>
+      <island name="Timor">
+        <coordinates latitude="-9.2" longitude="124.9"/>
+      </island>
+    </geo>
+    <peak height="2963"/>
+    <contCountries>
+      <border countryCode="RI" length="228"/>
+    </contCountries>
+  </country>
+  <country name="Papua New Guinea" continent="Australia/Oceania" blength="820">
+    <geo>
+      <mountain name="Mt. Balbi" height="2715"/>
+      <mountain name="Mt. Giluwe" height="4368"/>
+      <mountain name="Mt. Wilhelm" height="4509"/>
+      <island name="Bougainville">
+        <coordinates latitude="-6.2" longitude="155.25"/>
+      </island>
+      <island name="New Guinea">
+        <coordinates latitude="-5" longitude="142"/>
+      </island>
+    </geo>
+    <peak height="4509"/>
+    <contCountries>
+      <border countryCode="RI" length="820"/>
+    </contCountries>
+  </country>
+  <country name="Iraq" continent="Asia" blength="3631">
+    <geo>
+      <desert name="Syrian Desert" area="518000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="IR" length="1458"/>
+      <border countryCode="JOR" length="181"/>
+      <border countryCode="KWT" length="242"/>
+      <border countryCode="SA" length="814"/>
+      <border countryCode="SYR" length="605"/>
+      <border countryCode="TR" length="331"/>
+    </contCountries>
+  </country>
+  <country name="Jordan" continent="Asia" blength="1619">
+    <geo>
+      <desert name="Syrian Desert" area="518000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="IL" length="238"/>
+      <border countryCode="IRQ" length="181"/>
+      <border countryCode="SA" length="728"/>
+      <border countryCode="SYR" length="375"/>
+      <border countryCode="WEST" length="97"/>
+    </contCountries>
+  </country>
+  <country name="Kuwait" continent="Asia" blength="464">
+    <geo/>
+    <contCountries>
+      <border countryCode="IRQ" length="242"/>
+      <border countryCode="SA" length="222"/>
+    </contCountries>
+  </country>
+  <country name="Saudi Arabia" continent="Asia" blength="4415">
+    <geo>
+      <desert name="Nefud" area="78000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Syrian Desert" area="518000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="IRQ" length="814"/>
+      <border countryCode="JOR" length="728"/>
+      <border countryCode="KWT" length="222"/>
+      <border countryCode="OM" length="676"/>
+      <border countryCode="Q" length="60"/>
+      <border countryCode="UAE" length="457"/>
+      <border countryCode="YE" length="1458"/>
+    </contCountries>
+  </country>
+  <country name="Syria" continent="Asia" blength="2253">
+    <geo>
+      <desert name="Syrian Desert" area="518000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="IL" length="76"/>
+      <border countryCode="IRQ" length="605"/>
+      <border countryCode="JOR" length="375"/>
+      <border countryCode="RL" length="375"/>
+      <border countryCode="TR" length="822"/>
+    </contCountries>
+  </country>
+  <country name="Lebanon" continent="Asia" blength="454">
+    <geo>
+      <mountain name="Jabal Lubnan" height="3088"/>
+    </geo>
+    <peak height="3088"/>
+    <contCountries>
+      <border countryCode="IL" length="79"/>
+      <border countryCode="SYR" length="375"/>
+    </contCountries>
+  </country>
+  <country name="West Bank" continent="Asia" blength="404">
+    <geo/>
+    <contCountries>
+      <border countryCode="IL" length="307"/>
+      <border countryCode="JOR" length="97"/>
+    </contCountries>
+  </country>
+  <country name="Japan" continent="Asia" blength="0">
+    <geo>
+      <mountain name="Hotaka-Dake" height="3190"/>
+      <mountain name="Asahi-Dake" height="2290"/>
+      <mountain name="Hotaka-Dake" height="3190"/>
+      <mountain name="Fujisan" height="3776"/>
+      <mountain name="Fujisan" height="3776"/>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Shikoku">
+        <coordinates latitude="34" longitude="134"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Hokkaido">
+        <coordinates latitude="43.3" longitude="143"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Shikoku">
+        <coordinates latitude="34" longitude="134"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Shikoku">
+        <coordinates latitude="34" longitude="134"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Okinawa">
+        <coordinates latitude="26" longitude="128"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Shikoku">
+        <coordinates latitude="34" longitude="134"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+    </geo>
+    <peak height="3776"/>
+    <contCountries/>
+  </country>
+  <country name="South Korea" continent="Asia" blength="238">
+    <geo>
+      <island name="Jeju">
+        <coordinates latitude="33.4" longitude="126.5"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="NOK" length="238"/>
+    </contCountries>
+  </country>
+  <country name="Maldives" continent="Asia" blength="0">
+    <geo>
+      <island name="Male">
+        <coordinates latitude="2" longitude="72"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Oman" continent="Asia" blength="1374">
+    <geo>
+      <desert name="Rub Al Chali" area="780000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="SA" length="676"/>
+      <border countryCode="UAE" length="410"/>
+      <border countryCode="YE" length="288"/>
+    </contCountries>
+  </country>
+  <country name="United Arab Emirates" continent="Asia" blength="867">
+    <geo>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+    </geo>
+    <contCountries>
+      <border countryCode="SA" length="457"/>
+      <border countryCode="OM" length="410"/>
+    </contCountries>
+  </country>
+  <country name="Yemen" continent="Asia" blength="1746">
+    <geo>
+      <mountain name="Jabal Shuayb" height="3760"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <island name="Sokotra">
+        <coordinates latitude="12.5" longitude="53.9"/>
+      </island>
+    </geo>
+    <peak height="3760"/>
+    <contCountries>
+      <border countryCode="SA" length="1458"/>
+      <border countryCode="OM" length="288"/>
+    </contCountries>
+  </country>
+  <country name="Philippines" continent="Asia" blength="0">
+    <geo>
+      <mountain name="Kanlaon" height="2435"/>
+      <mountain name="Mantalingajan" height="2085"/>
+      <mountain name="Mount Apo" height="2954"/>
+      <mountain name="Pinatubo" height="1486"/>
+      <mountain name="Pulog" height="2928"/>
+      <island name="Bohol">
+        <coordinates latitude="9.9" longitude="124.2"/>
+      </island>
+      <island name="Cebu">
+        <coordinates latitude="10.4" longitude="123.8"/>
+      </island>
+      <island name="Leyte">
+        <coordinates latitude="11" longitude="124.9"/>
+      </island>
+      <island name="Luzon">
+        <coordinates latitude="16.1" longitude="121"/>
+      </island>
+      <island name="Mindanao">
+        <coordinates latitude="7.55" longitude="124.9"/>
+      </island>
+      <island name="Mindoro">
+        <coordinates latitude="13" longitude="121.1"/>
+      </island>
+      <island name="Negros">
+        <coordinates latitude="10" longitude="123"/>
+      </island>
+      <island name="Palawan">
+        <coordinates latitude="9.5" longitude="118.4"/>
+      </island>
+      <island name="Panay">
+        <coordinates latitude="11.15" longitude="122.5"/>
+      </island>
+      <island name="Samar">
+        <coordinates latitude="12" longitude="125.1"/>
+      </island>
+    </geo>
+    <peak height="2954"/>
+    <contCountries/>
+  </country>
+  <country name="Qatar" continent="Asia" blength="60">
+    <geo/>
+    <contCountries>
+      <border countryCode="SA" length="60"/>
+    </contCountries>
+  </country>
+  <country name="Singapore" continent="Asia" blength="0">
+    <geo>
+      <island name="Singapore">
+        <coordinates latitude="1.3" longitude="103.833"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Sri Lanka" continent="Asia" blength="0">
+    <geo>
+      <mountain name="Pidurutalagala" height="2524"/>
+      <island name="Sri Lanka">
+        <coordinates latitude="7" longitude="80"/>
+      </island>
+    </geo>
+    <peak height="2524"/>
+    <contCountries/>
+  </country>
+  <country name="Taiwan" continent="Asia" blength="0">
+    <geo>
+      <mountain name="Yu Shan" height="3950"/>
+      <island name="Taiwan">
+        <coordinates latitude="24" longitude="121"/>
+      </island>
+    </geo>
+    <peak height="3950"/>
+    <contCountries/>
+  </country>
+  <country name="Anguilla" continent="America" blength="0">
+    <geo>
+      <island name="Anguilla">
+        <coordinates latitude="18" longitude="-64"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Antigua and Barbuda" continent="America" blength="0">
+    <geo>
+      <island name="Antigua">
+        <coordinates latitude="17.05" longitude="-61.8"/>
+      </island>
+      <island name="Barbuda">
+        <coordinates latitude="17.3" longitude="-61.4"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Aruba" continent="America" blength="0">
+    <geo>
+      <island name="Aruba">
+        <coordinates latitude="12.31" longitude="-70.02"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Bahamas" continent="America" blength="0">
+    <geo>
+      <island name="New Providence">
+        <coordinates latitude="25" longitude="-77.4"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Barbados" continent="America" blength="0">
+    <geo>
+      <island name="Barbados">
+        <coordinates latitude="13" longitude="-59.3"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Belize" continent="America" blength="516">
+    <geo/>
+    <contCountries>
+      <border countryCode="GCA" length="266"/>
+      <border countryCode="MEX" length="250"/>
+    </contCountries>
+  </country>
+  <country name="Guatemala" continent="America" blength="1687">
+    <geo>
+      <mountain name="Tajumulco" height="4220"/>
+    </geo>
+    <peak height="4220"/>
+    <contCountries>
+      <border countryCode="BZ" length="266"/>
+      <border countryCode="ES" length="203"/>
+      <border countryCode="MEX" length="962"/>
+      <border countryCode="HCA" length="256"/>
+    </contCountries>
+  </country>
+  <country name="Mexico" continent="America" blength="4538">
+    <geo>
+      <mountain name="Nevado de Colima" height="4330"/>
+      <mountain name="Nevado de Toluca" height="4558"/>
+      <mountain name="Popocatepetl" height="5450"/>
+      <mountain name="Popocatepetl" height="5450"/>
+      <mountain name="Citlaltepetl (Pico de Orizaba)" height="5700"/>
+      <mountain name="Iztaccihuatl" height="5286"/>
+      <mountain name="Popocatepetl" height="5450"/>
+      <mountain name="Citlaltepetl (Pico de Orizaba)" height="5700"/>
+      <desert name="Baja California Desert" area="30000"/>
+      <desert name="Sonora" area="320000"/>
+      <desert name="Sonora" area="320000"/>
+    </geo>
+    <peak height="5700"/>
+    <contCountries>
+      <border countryCode="BZ" length="250"/>
+      <border countryCode="GCA" length="962"/>
+      <border countryCode="USA" length="3326"/>
+    </contCountries>
+  </country>
+  <country name="Bermuda" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Grand Bermuda">
+        <coordinates latitude="32.17" longitude="-64.47"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="British Virgin Islands" continent="America" blength="0">
+    <geo>
+      <island name="Tortola">
+        <coordinates latitude="18.27" longitude="-64.37"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Canada" continent="America" blength="8893">
+    <geo>
+      <mountain name="Mt Columbia" height="3747"/>
+      <mountain name="Mt Columbia" height="3747"/>
+      <mountain name="Mt Fairweather" height="4663"/>
+      <mountain name="Mt Robson" height="3954"/>
+      <mountain name="Mt Waddington" height="4019"/>
+      <mountain name="Barbeau Peak" height="2616"/>
+      <mountain name="Mt. Odin" height="2147"/>
+      <mountain name="Mt. Babel" height="952"/>
+      <mountain name="Mt Bona" height="5005"/>
+      <mountain name="Mt Logan" height="5959"/>
+      <mountain name="Mt St.Elias" height="5489"/>
+      <island name="Vancouver Island">
+        <coordinates latitude="49.6" longitude="-125.65"/>
+      </island>
+      <island name="Newfoundland">
+        <coordinates latitude="48.6" longitude="-55.8"/>
+      </island>
+      <island name="Baffin Island">
+        <coordinates latitude="69" longitude="72"/>
+      </island>
+      <island name="Banks Island">
+        <coordinates latitude="72.85" longitude="-122.1"/>
+      </island>
+      <island name="Ellesmere Island">
+        <coordinates latitude="79.25" longitude="-79.6"/>
+      </island>
+      <island name="Prince of Wales Island">
+        <coordinates latitude="72.6" longitude="-98.55"/>
+      </island>
+      <island name="Southampton Island">
+        <coordinates latitude="64.5" longitude="-84.5"/>
+      </island>
+      <island name="Victoria Island">
+        <coordinates latitude="70.75" longitude="-110.1"/>
+      </island>
+      <island name="Manitoulin">
+        <coordinates latitude="45.75" longitude="-82.2"/>
+      </island>
+      <island name="Rene Levasseur Island">
+        <coordinates latitude="51.4" longitude="-68.7"/>
+      </island>
+      <island name="Prince Edward Island">
+        <coordinates latitude="46.3" longitude="-63.4"/>
+      </island>
+    </geo>
+    <peak height="5959"/>
+    <contCountries>
+      <border countryCode="USA" length="8893"/>
+    </contCountries>
+  </country>
+  <country name="United States" continent="America" blength="12219">
+    <geo>
+      <mountain name="Mt Blackburn" height="4996"/>
+      <mountain name="Mt Bona" height="5005"/>
+      <mountain name="Mt Fairweather" height="4663"/>
+      <mountain name="Mt McKinley" height="6193"/>
+      <mountain name="Mt Redoubt" height="3108"/>
+      <mountain name="Mt St.Elias" height="5489"/>
+      <mountain name="Humphreys Peak" height="3850"/>
+      <mountain name="Boundary Peak" height="4006"/>
+      <mountain name="Mt Whitney" height="4418"/>
+      <mountain name="Mt Elbert" height="4401"/>
+      <mountain name="Pikes Peak" height="4302"/>
+      <mountain name="Haleakala" height="3055"/>
+      <mountain name="Mauna Kea" height="4214"/>
+      <mountain name="Mauna Loa" height="4170"/>
+      <mountain name="Borah Peak" height="3859"/>
+      <mountain name="Granite Peak" height="3901"/>
+      <mountain name="Boundary Peak" height="4006"/>
+      <mountain name="Mt Washington" height="1917"/>
+      <mountain name="Wheeler Peak" height="4011"/>
+      <mountain name="Mt Marcy" height="1629"/>
+      <mountain name="Mt Mitchell" height="2037"/>
+      <mountain name="Mt Hood" height="3424"/>
+      <mountain name="Harney Peak" height="2207"/>
+      <mountain name="Clingmans Dome" height="2025"/>
+      <mountain name="Guadalupe Peak" height="2667"/>
+      <mountain name="Kings Peak" height="4123"/>
+      <mountain name="Mt Adams" height="3743"/>
+      <mountain name="Mt Rainier" height="4392"/>
+      <mountain name="Gannett Peak" height="4207"/>
+      <desert name="Chihuahua" area="360000"/>
+      <desert name="Chihuahua" area="360000"/>
+      <desert name="Chihuahua" area="360000"/>
+      <desert name="Colorado Plateau" area="337000"/>
+      <desert name="Colorado Plateau" area="337000"/>
+      <desert name="Colorado Plateau" area="337000"/>
+      <desert name="Colorado Plateau" area="337000"/>
+      <desert name="Great Basin" area="300000"/>
+      <desert name="Great Basin" area="300000"/>
+      <desert name="Great Basin" area="300000"/>
+      <desert name="Great Salt Lake Desert" area="10360"/>
+      <desert name="Mojave" area="57000"/>
+      <desert name="Mojave" area="57000"/>
+      <desert name="Mojave" area="57000"/>
+      <desert name="Mojave" area="57000"/>
+      <desert name="Owyhee" area="36000"/>
+      <desert name="Owyhee" area="36000"/>
+      <desert name="Owyhee" area="36000"/>
+      <desert name="Sonora" area="320000"/>
+      <desert name="Sonora" area="320000"/>
+      <island name="San Clemente Island">
+        <coordinates latitude="33" longitude="-118.5"/>
+      </island>
+      <island name="San Miguel Island">
+        <coordinates latitude="33" longitude="-120.4"/>
+      </island>
+      <island name="Santa Catalina Island">
+        <coordinates latitude="33.2" longitude="-118.2"/>
+      </island>
+      <island name="Santa Cruz Island">
+        <coordinates latitude="34" longitude="-119.7"/>
+      </island>
+      <island name="Santa Rosa Island">
+        <coordinates latitude="34" longitude="-120.1"/>
+      </island>
+      <island name="Hawaii">
+        <coordinates latitude="19.6" longitude="-155.5"/>
+      </island>
+      <island name="Kauai">
+        <coordinates latitude="22" longitude="-159.5"/>
+      </island>
+      <island name="Lanai">
+        <coordinates latitude="20.5" longitude="-157"/>
+      </island>
+      <island name="Maui">
+        <coordinates latitude="20.7" longitude="-156.3"/>
+      </island>
+      <island name="Molokai">
+        <coordinates latitude="21.1" longitude="-157"/>
+      </island>
+      <island name="Niihau">
+        <coordinates latitude="21.9" longitude="-160.1"/>
+      </island>
+      <island name="Oahu">
+        <coordinates latitude="21.5" longitude="-158"/>
+      </island>
+      <island name="Martha s Vineyard">
+        <coordinates latitude="41.4" longitude="-70.6"/>
+      </island>
+      <island name="Nantucket">
+        <coordinates latitude="41.5" longitude="-70.1"/>
+      </island>
+      <island name="Long Island">
+        <coordinates latitude="40.8" longitude="-73.3"/>
+      </island>
+    </geo>
+    <peak height="6193"/>
+    <contCountries>
+      <border countryCode="MEX" length="3326"/>
+      <border countryCode="CDN" length="8893"/>
+    </contCountries>
+  </country>
+  <country name="Cayman Islands" continent="America" blength="0">
+    <geo>
+      <island name="Cayman Brac">
+        <coordinates latitude="19.7" longitude="-79.8"/>
+      </island>
+      <island name="Grand Cayman">
+        <coordinates latitude="19.18" longitude="-81.23"/>
+      </island>
+      <island name="Little Cayman">
+        <coordinates latitude="19.8" longitude="-80"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Costa Rica" continent="America" blength="639">
+    <geo>
+      <mountain name="Cerro Chirripo" height="3819"/>
+      <mountain name="Irazu" height="3432"/>
+      <mountain name="Cerro Chirripo" height="3819"/>
+    </geo>
+    <peak height="3819"/>
+    <contCountries>
+      <border countryCode="NIC" length="309"/>
+      <border countryCode="PA" length="330"/>
+    </contCountries>
+  </country>
+  <country name="Nicaragua" continent="America" blength="1231">
+    <geo>
+      <mountain name="Concepcion" height="1700"/>
+      <island name="Isla da Ometepe">
+        <coordinates latitude="11.5" longitude="-85.6"/>
+      </island>
+    </geo>
+    <peak height="1700"/>
+    <contCountries>
+      <border countryCode="CR" length="309"/>
+      <border countryCode="HCA" length="922"/>
+    </contCountries>
+  </country>
+  <country name="Panama" continent="America" blength="555">
+    <geo/>
+    <contCountries>
+      <border countryCode="CR" length="330"/>
+      <border countryCode="CO" length="225"/>
+    </contCountries>
+  </country>
+  <country name="Cuba" continent="America" blength="0">
+    <geo>
+      <mountain name="Pico Turquino" height="1974"/>
+      <mountain name="Pico Turquino" height="1974"/>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+    </geo>
+    <peak height="1974"/>
+    <contCountries/>
+  </country>
+  <country name="Dominica" continent="America" blength="0">
+    <geo>
+      <mountain name="Morne Diablotins" height="1447"/>
+      <island name="Dominica">
+        <coordinates latitude="15.4" longitude="-61.35"/>
+      </island>
+    </geo>
+    <peak height="1447"/>
+    <contCountries/>
+  </country>
+  <country name="Dominican Republic" continent="America" blength="275">
+    <geo>
+      <mountain name="Pico Duarte" height="3098"/>
+      <island name="Hispaniola">
+        <coordinates latitude="19" longitude="-70.7"/>
+      </island>
+    </geo>
+    <peak height="3098"/>
+    <contCountries>
+      <border countryCode="RH" length="275"/>
+    </contCountries>
+  </country>
+  <country name="Haiti" continent="America" blength="275">
+    <geo>
+      <island name="Hispaniola">
+        <coordinates latitude="19" longitude="-70.7"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="DOM" length="275"/>
+    </contCountries>
+  </country>
+  <country name="El Salvador" continent="America" blength="545">
+    <geo/>
+    <contCountries>
+      <border countryCode="GCA" length="203"/>
+      <border countryCode="HCA" length="342"/>
+    </contCountries>
+  </country>
+  <country name="Honduras" continent="America" blength="1520">
+    <geo/>
+    <contCountries>
+      <border countryCode="GCA" length="256"/>
+      <border countryCode="ES" length="342"/>
+      <border countryCode="NIC" length="922"/>
+    </contCountries>
+  </country>
+  <country name="Greenland" continent="America" blength="0">
+    <geo>
+      <island name="Greenland">
+        <coordinates latitude="70" longitude="-40"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Grenada" continent="America" blength="0">
+    <geo>
+      <island name="Grenada">
+        <coordinates latitude="12" longitude="-62"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Guadeloupe" continent="America" blength="0">
+    <geo>
+      <mountain name="La Soufriere" height="1467"/>
+      <island name="Basse-Terre">
+        <coordinates latitude="16.15" longitude="-61.8"/>
+      </island>
+      <island name="Grande-Terre">
+        <coordinates latitude="16.3" longitude="-61.4"/>
+      </island>
+    </geo>
+    <peak height="1467"/>
+    <contCountries/>
+  </country>
+  <country name="Jamaica" continent="America" blength="0">
+    <geo>
+      <mountain name="Blue Mountain Peak" height="2256"/>
+      <island name="Jamaica">
+        <coordinates latitude="18.1" longitude="-77.3"/>
+      </island>
+    </geo>
+    <peak height="2256"/>
+    <contCountries/>
+  </country>
+  <country name="Martinique" continent="America" blength="0">
+    <geo>
+      <mountain name="Pelee" height="1397"/>
+      <island name="Martinique">
+        <coordinates latitude="14.6" longitude="-61"/>
+      </island>
+    </geo>
+    <peak height="1397"/>
+    <contCountries/>
+  </country>
+  <country name="Montserrat" continent="America" blength="0">
+    <geo>
+      <mountain name="Soufriere Hills" height="1050"/>
+      <island name="Montserrat">
+        <coordinates latitude="16.42" longitude="-62.13"/>
+      </island>
+    </geo>
+    <peak height="1050"/>
+    <contCountries/>
+  </country>
+  <country name="Netherlands Antilles" continent="America" blength="15">
+    <geo>
+      <island name="Bonaire">
+        <coordinates latitude="12.2" longitude="-68.3"/>
+      </island>
+      <island name="Curacao">
+        <coordinates latitude="12.2" longitude="-69"/>
+      </island>
+      <island name="St. Martin">
+        <coordinates latitude="18.1" longitude="-63.1"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="SMAR" length="15"/>
+    </contCountries>
+  </country>
+  <country name="Saint Martin" continent="America" blength="15">
+    <geo>
+      <island name="St. Martin">
+        <coordinates latitude="18.1" longitude="-63.1"/>
+      </island>
+    </geo>
+    <contCountries>
+      <border countryCode="NA" length="15"/>
+    </contCountries>
+  </country>
+  <country name="Colombia" continent="America" blength="7408">
+    <geo>
+      <mountain name="Nevado del Ruiz" height="5389"/>
+      <mountain name="Nevado del Huila" height="5750"/>
+      <mountain name="Pico Cristobal Colon" height="5775"/>
+      <mountain name="Nevado del Ruiz" height="5389"/>
+    </geo>
+    <peak height="5775"/>
+    <contCountries>
+      <border countryCode="BR" length="1643"/>
+      <border countryCode="PA" length="225"/>
+      <border countryCode="PE" length="2900"/>
+      <border countryCode="YV" length="2050"/>
+      <border countryCode="EC" length="590"/>
+    </contCountries>
+  </country>
+  <country name="Puerto Rico" continent="America" blength="0">
+    <geo>
+      <mountain name="Cerro de Punta" height="1338"/>
+      <island name="Puerto Rico">
+        <coordinates latitude="18.49" longitude="-66.12"/>
+      </island>
+    </geo>
+    <peak height="1338"/>
+    <contCountries/>
+  </country>
+  <country name="Saint Kitts and Nevis" continent="America" blength="0">
+    <geo>
+      <island name="Nevis">
+        <coordinates latitude="17" longitude="-62.3"/>
+      </island>
+      <island name="Saint Kitts">
+        <coordinates latitude="17.3" longitude="-62.75"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Saint Lucia" continent="America" blength="0">
+    <geo>
+      <island name="Saint Lucia">
+        <coordinates latitude="14" longitude="-60.5"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Saint Pierre and Miquelon" continent="America" blength="0">
+    <geo>
+      <island name="Miquelon-Langlade">
+        <coordinates latitude="47.1" longitude="-56.3"/>
+      </island>
+      <island name="Saint Pierre">
+        <coordinates latitude="47" longitude="-56"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Saint Vincent and the Grenadines" continent="America" blength="0">
+    <geo>
+      <mountain name="Soufriere" height="1220"/>
+      <island name="Saint Vincent">
+        <coordinates latitude="13.25" longitude="-61.3"/>
+      </island>
+    </geo>
+    <peak height="1220"/>
+    <contCountries/>
+  </country>
+  <country name="Trinidad and Tobago" continent="America" blength="0">
+    <geo>
+      <island name="Tobago">
+        <coordinates latitude="11.25" longitude="-60.7"/>
+      </island>
+      <island name="Trinidad">
+        <coordinates latitude="10.4" longitude="-61.35"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Turks and Caicos Islands" continent="America" blength="0">
+    <geo>
+      <island name="Grand Turk">
+        <coordinates latitude="21.28" longitude="-71.08"/>
+      </island>
+      <island name="North Caicos">
+        <coordinates latitude="22.1" longitude="-72.1"/>
+      </island>
+      <island name="Providenciales">
+        <coordinates latitude="22" longitude="-72.3"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Virgin Islands" continent="America" blength="0">
+    <geo>
+      <island name="Saint Thomas">
+        <coordinates latitude="18.3" longitude="-64.9"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="American Samoa" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Tutuila">
+        <coordinates latitude="-14.16" longitude="-170.42"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Australia" continent="Australia/Oceania" blength="0">
+    <geo>
+      <mountain name="Mt. Kosciuszko" height="2228"/>
+      <mountain name="Uluru" height="869"/>
+      <mountain name="Mt. Bogong" height="1986"/>
+      <desert name="Gibson Desert" area="310800"/>
+      <desert name="Great Sandy Desert" area="360000"/>
+      <desert name="Great Victoria Desert" area="424400"/>
+      <desert name="Great Victoria Desert" area="424400"/>
+      <desert name="Nullarbor Plain" area="200000"/>
+      <desert name="Nullarbor Plain" area="200000"/>
+      <desert name="Red Centre" area="1000000"/>
+      <desert name="Red Centre" area="1000000"/>
+      <desert name="Red Centre" area="1000000"/>
+      <desert name="Simpson Desert" area="176500"/>
+      <desert name="Simpson Desert" area="176500"/>
+      <desert name="Simpson Desert" area="176500"/>
+      <desert name="Sturt Desert" area="13000"/>
+      <desert name="Sturt Desert" area="13000"/>
+      <desert name="Sturt Desert" area="13000"/>
+      <desert name="Tanami" area="37500"/>
+      <island name="Melville Island">
+        <coordinates latitude="-12" longitude="131"/>
+      </island>
+      <island name="Cangaroo Island">
+        <coordinates latitude="-35.8" longitude="137.3"/>
+      </island>
+      <island name="Tasmania">
+        <coordinates latitude="-42" longitude="145"/>
+      </island>
+    </geo>
+    <peak height="2228"/>
+    <contCountries/>
+  </country>
+  <country name="Cook Islands" continent="Australia/Oceania" blength="0">
+    <geo>
+      <island name="Rarotonga">
+        <coordinates latitude="-21.12" longitude="-159.46"/>
+      </island>
+    </geo>
+    <contCountries/>
+  </country>
+  <country name="Fiji" continent="Australia/Oceania" blength="0">
+    <geo>
+      <mountain name="Mt.Victoria" height="1323"/>
+      <island name="Vanua Levu">
+        <coordinates latitude="-16.35" longitude="179.25"/>
+      </island>
+      <island name="Viti Levu">
+        <coordinates latitude="-17.8" longitude="178"/>
+      </island>
+    </geo>
+    <peak height="1323"/>
+    <contCountries/>
+  </country>
+</ex2>
+

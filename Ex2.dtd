@@ -1,0 +1,26 @@
+<!ELEMENT ex2 (country+) >
+
+<!ELEMENT country (geo, peak?,contCountries) >
+<!ATTLIST country name CDATA #REQUIRED continent CDATA #REQUIRED blength CDATA #REQUIRED >
+
+<!ELEMENT geo ( (mountain|desert)*, island* ) >
+
+<!ELEMENT mountain EMPTY >
+<!ATTLIST mountain name CDATA #REQUIRED height CDATA #REQUIRED >
+
+<!ELEMENT desert EMPTY >
+<!ATTLIST desert name CDATA #REQUIRED area CDATA #IMPLIED >
+
+<!ELEMENT island (coordinates?) >
+<!ATTLIST island name CDATA #REQUIRED >
+
+<!ELEMENT coordinates EMPTY >
+<!ATTLIST coordinates latitude CDATA #REQUIRED longitude CDATA #REQUIRED>
+
+<!ELEMENT peak EMPTY >
+<!ATTLIST peak height CDATA #REQUIRED >
+
+<!ELEMENT contCountries (border*) >
+
+<!ELEMENT border EMPTY>
+<!ATTLIST border countryCode CDATA #REQUIRED length CDATA #REQUIRED >
